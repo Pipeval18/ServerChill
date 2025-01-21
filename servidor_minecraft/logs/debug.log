@@ -2100,3 +2100,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 04:42:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin Brute
 [21Jan2025 04:42:29.931] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
 [21Jan2025 04:42:50.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 04:44:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:45:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:46:34.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Cover Me with Diamonds]
+[21Jan2025 04:47:01.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:47:01.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:48:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[21Jan2025 04:48:46.880] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:48:49.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:49:03.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 tried to swim in lava
+[21Jan2025 04:49:05.379] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:49:06.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:50:46.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[21Jan2025 04:50:48.043] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:50:49.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:51:00.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[21Jan2025 04:51:02.813] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:51:14.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! 0.0,-10.80652611000901,0.0
+[21Jan2025 04:51:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 burned to death
+[21Jan2025 04:51:34.267] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:51:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[21Jan2025 04:51:42.961] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:51:45.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:52:01.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:52:01.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

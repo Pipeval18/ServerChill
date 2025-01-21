@@ -1054,9 +1054,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-21 00:31:11 +0000",
+      "minecraft:magma_cube": "2025-01-21 04:44:49 +0000",
       "minecraft:spider": "2025-01-21 01:16:45 +0000",
+      "minecraft:piglin_brute": "2025-01-21 04:44:45 +0000",
       "minecraft:creeper": "2025-01-21 00:31:42 +0000",
       "minecraft:cave_spider": "2025-01-21 00:39:12 +0000",
+      "minecraft:piglin": "2025-01-21 04:42:46 +0000",
       "minecraft:zombie": "2025-01-21 00:38:17 +0000",
       "minecraft:drowned": "2025-01-21 01:24:52 +0000"
     },
@@ -2142,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-21 04:46:34 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_poison_stone": {
     "criteria": {
       "has_item": "2025-01-21 03:50:46 +0000"
@@ -2189,6 +2198,12 @@
       "minecraft:nether_wastes": "2025-01-21 04:32:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-21 04:46:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
@@ -2256,6 +2271,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-21 04:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-21 03:22:27 +0000"
@@ -2280,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-21 04:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-21 04:35:17 +0000"
@@ -2298,6 +2325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-21 04:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
@@ -2307,6 +2340,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-21 04:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-21 04:50:49 +0000"
     },
     "done": true
   },
@@ -2340,15 +2379,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-21 04:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-21 04:50:49 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-01-21 04:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-21 04:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-21 04:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-21 04:50:49 +0000"
     },
     "done": true
   },
@@ -2478,6 +2547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-21 04:48:33 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-01-21 04:00:33 +0000"
@@ -2559,6 +2634,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-01-21 03:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-21 04:48:33 +0000"
     },
     "done": true
   },
