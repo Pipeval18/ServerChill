@@ -2007,3 +2007,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 20:15:07.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 20:20:08.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 20:20:08.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:20:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 20:25:08.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:25:08.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:25:47.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[21Jan2025 20:30:10.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:30:10.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:30:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Zombie
+[21Jan2025 20:30:13.953] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
