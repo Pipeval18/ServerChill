@@ -2077,3 +2077,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 04:31:58.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 04:31:58.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 04:32:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [We Need to Go Deeper]
+[21Jan2025 04:35:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 04:35:17.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Ice Bucket Challenge]
+[21Jan2025 04:35:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Who is Cutting Onions?]
+[21Jan2025 04:36:58.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:36:58.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:37:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Those Were the Days]
+[21Jan2025 04:37:39.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:37:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Those Were the Days]
+[21Jan2025 04:38:26.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [War Pigs]
+[21Jan2025 04:38:28.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Hidden in the Depths]
+[21Jan2025 04:39:48.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin
+[21Jan2025 04:39:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin
+[21Jan2025 04:39:51.914] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[21Jan2025 04:39:51.927] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 04:40:17.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! -4.181614878957134,-2.385759373429565,-8.85783393505163
+[21Jan2025 04:40:17.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[21Jan2025 04:40:29.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:42:01.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:42:01.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:42:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 04:42:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin Brute
+[21Jan2025 04:42:29.931] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[21Jan2025 04:42:50.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
