@@ -115,3 +115,15 @@
 [21Jan2025 18:50:04.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.351s)! For help, type "help"
 [21Jan2025 18:50:04.772] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21Jan2025 18:50:04.778] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[21Jan2025 19:01:57.290] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[21Jan2025 19:02:01.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:51022] logged in with entity id 102 at (-4610.819138339353, 64.0, -1015.9926288990519)
+[21Jan2025 19:02:01.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[21Jan2025 19:02:01.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[21Jan2025 19:02:01.267] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[21Jan2025 19:02:01.267] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[21Jan2025 19:02:01.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[21Jan2025 19:02:01.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[21Jan2025 19:02:01.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[21Jan2025 19:02:01.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
+[21Jan2025 19:02:04.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
+[21Jan2025 19:06:07.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [The Parrots and the Bats]
