@@ -511,6 +511,7 @@
       "cooked_porkchop": "2025-01-21 00:38:40 +0000",
       "cooked_mutton": "2025-01-21 00:27:29 +0000",
       "cooked_beef": "2025-01-21 00:18:39 +0000",
+      "baked_potato": "2025-01-21 04:56:46 +0000",
       "bread": "2025-01-21 00:56:44 +0000",
       "rotten_flesh": "2025-01-21 00:50:45 +0000",
       "glow_berries": "2025-01-21 01:15:23 +0000"
@@ -1058,6 +1059,7 @@
       "minecraft:spider": "2025-01-21 01:16:45 +0000",
       "minecraft:piglin_brute": "2025-01-21 04:44:45 +0000",
       "minecraft:creeper": "2025-01-21 00:31:42 +0000",
+      "minecraft:wither_skeleton": "2025-01-21 05:13:01 +0000",
       "minecraft:cave_spider": "2025-01-21 00:39:12 +0000",
       "minecraft:piglin": "2025-01-21 04:42:46 +0000",
       "minecraft:zombie": "2025-01-21 00:38:17 +0000",
@@ -2195,6 +2197,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-21 05:17:23 +0000",
       "minecraft:nether_wastes": "2025-01-21 04:32:36 +0000"
     },
     "done": false
@@ -2223,9 +2226,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-21 04:53:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-21 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-21 05:08:59 +0000"
     },
     "done": true
   },
@@ -2238,6 +2253,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
     },
     "done": true
   },
@@ -2265,6 +2286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-21 03:22:27 +0000"
@@ -2274,6 +2301,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-01-21 04:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-21 05:08:59 +0000"
     },
     "done": true
   },
@@ -2292,6 +2325,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
     },
     "done": true
   },
@@ -2385,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
@@ -2424,6 +2469,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-21 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
     },
     "done": true
   },
@@ -2478,6 +2529,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
     },
     "done": true
   },
@@ -2559,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
@@ -2583,6 +2646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-21 04:17:42 +0000"
@@ -2592,6 +2661,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-01-21 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 05:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-21 04:53:11 +0000"
     },
     "done": true
   },
@@ -2628,6 +2709,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-21 04:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-21 05:12:13 +0000"
     },
     "done": true
   },

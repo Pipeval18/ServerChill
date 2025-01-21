@@ -920,11 +920,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-21 05:20:58 +0000",
       "minecraft:skeleton": "2025-01-21 00:30:27 +0000",
       "minecraft:spider": "2025-01-21 00:57:00 +0000",
       "minecraft:piglin_brute": "2025-01-21 04:42:24 +0000",
       "minecraft:creeper": "2025-01-21 00:36:59 +0000",
       "minecraft:witch": "2025-01-21 01:30:46 +0000",
+      "minecraft:wither_skeleton": "2025-01-21 05:21:23 +0000",
       "minecraft:cave_spider": "2025-01-21 00:30:32 +0000",
       "minecraft:enderman": "2025-01-21 00:34:33 +0000",
       "minecraft:zombie": "2025-01-21 00:31:11 +0000",
@@ -1739,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-21 05:20:19 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-01-21 04:38:30 +0000"
@@ -1772,6 +1780,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-21 03:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-21 05:21:19 +0000"
     },
     "done": true
   },
@@ -2369,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-21 05:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-21 03:42:09 +0000"
@@ -2468,6 +2488,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-21 04:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-21 05:21:13 +0000"
     },
     "done": true
   },
