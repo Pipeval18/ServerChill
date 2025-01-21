@@ -2015,3 +2015,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 20:30:10.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 20:30:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Zombie
 [21Jan2025 20:30:13.953] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[21Jan2025 20:31:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 has made the advancement [Diamonds!]
+[21Jan2025 20:31:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 was doomed to fall by Skeleton
+[21Jan2025 20:31:34.115] [Server thread/DEBUG] [twilightforest/]: Player Jeop1031 (0576c97b-a4a2-4a51-845e-47ecf6d9768e) respawned and received items held in storage
+[21Jan2025 20:31:36.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeop1031 lost connection: Disconnected
+[21Jan2025 20:31:36.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 left the game
+[21Jan2025 20:34:58.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was blown up by Creeper
+[21Jan2025 20:35:00.217] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[21Jan2025 20:35:10.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:35:10.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:40:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 20:40:10.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:40:10.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

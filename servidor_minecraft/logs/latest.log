@@ -195,3 +195,9 @@
 [21Jan2025 20:20:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [21Jan2025 20:25:47.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
 [21Jan2025 20:30:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Zombie
+[21Jan2025 20:31:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 has made the advancement [Diamonds!]
+[21Jan2025 20:31:28.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 was doomed to fall by Skeleton
+[21Jan2025 20:31:36.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jeop1031 lost connection: Disconnected
+[21Jan2025 20:31:36.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 left the game
+[21Jan2025 20:34:58.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was blown up by Creeper
+[21Jan2025 20:40:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
