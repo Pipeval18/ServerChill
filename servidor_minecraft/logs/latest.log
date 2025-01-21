@@ -146,3 +146,5 @@
 [21Jan2025 19:27:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the weather to clear]
 [21Jan2025 19:28:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the time to 1000]
 [21Jan2025 19:28:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[21Jan2025 19:36:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 19:39:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the time to 1000]

@@ -1653,3 +1653,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 19:27:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the weather to clear]
 [21Jan2025 19:28:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the time to 1000]
 [21Jan2025 19:28:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[21Jan2025 19:30:08.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 19:30:08.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 19:35:08.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 19:35:08.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 19:36:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 19:39:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the time to 1000]
