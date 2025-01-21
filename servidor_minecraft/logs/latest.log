@@ -127,3 +127,22 @@
 [21Jan2025 19:02:01.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
 [21Jan2025 19:02:04.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
 [21Jan2025 19:06:07.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [The Parrots and the Bats]
+[21Jan2025 19:20:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Fishy Business]
+[21Jan2025 19:21:32.665] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[21Jan2025 19:21:38.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:57331] logged in with entity id 3210 at (-4604.073302948681, 66.875, -1001.0898664171605)
+[21Jan2025 19:21:38.299] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[21Jan2025 19:21:38.301] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[21Jan2025 19:21:38.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[21Jan2025 19:21:38.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[21Jan2025 19:21:38.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[21Jan2025 19:21:38.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[21Jan2025 19:21:38.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[21Jan2025 19:21:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[21Jan2025 19:22:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> contesta puta
+[21Jan2025 19:22:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> voy
+[21Jan2025 19:24:39.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 19:26:43.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Enchanter]
+[21Jan2025 19:27:30.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[21Jan2025 19:27:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the weather to clear]
+[21Jan2025 19:28:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the time to 1000]
+[21Jan2025 19:28:40.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
