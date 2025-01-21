@@ -166,3 +166,27 @@
 [21Jan2025 19:58:27.583] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
 [21Jan2025 19:58:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
 [21Jan2025 19:59:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[21Jan2025 20:00:17.994] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jeop1031 is 0576c97b-a4a2-4a51-845e-47ecf6d9768e
+[21Jan2025 20:00:20.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jeop1031[/100.111.132.65:55404] logged in with entity id 9572 at (10.5, 63.0, 7.5)
+[21Jan2025 20:00:20.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Jeop1031
+[21Jan2025 20:00:20.811] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Jeop1031
+[21Jan2025 20:00:20.812] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Jeop1031
+[21Jan2025 20:00:20.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Jeop1031
+[21Jan2025 20:00:20.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Jeop1031
+[21Jan2025 20:00:20.823] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Jeop1031
+[21Jan2025 20:00:20.825] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Jeop1031
+[21Jan2025 20:00:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 joined the game
+[21Jan2025 20:00:35.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Jeop1031 to Juanitoop]
+[21Jan2025 20:00:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[21Jan2025 20:00:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 has made the advancement [Suit Up]
+[21Jan2025 20:00:49.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 has made the advancement [Isn't It Iron Pick]
+[21Jan2025 20:01:03.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Made Jeop1031 a server operator]
+[21Jan2025 20:01:15.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 has made the advancement [Monster Hunter]
+[21Jan2025 20:02:28.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 20:02:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Jeop1031]
+[21Jan2025 20:03:24.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Jeop1031 to Juanitoop]
+[21Jan2025 20:04:39.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 20:05:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 20:07:01.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[21Jan2025 20:07:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[21Jan2025 20:07:45.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jeop1031 has made the advancement [Stone Age]
