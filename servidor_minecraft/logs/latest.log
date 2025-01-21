@@ -276,3 +276,5 @@
 [21Jan2025 05:37:54.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
 [21Jan2025 05:39:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was fireballed by Blaze
 [21Jan2025 05:39:31.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 05:51:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was blown up by Creeper
+[21Jan2025 05:53:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Local Brewery]
