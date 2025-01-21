@@ -249,3 +249,29 @@
 [21Jan2025 00:04:41.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [21Jan2025 00:05:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
 [21Jan2025 00:08:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[21Jan2025 00:11:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
+[21Jan2025 00:12:02.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the weather to clear]
+[21Jan2025 00:14:13.778] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[21Jan2025 00:14:17.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:52793] logged in with entity id 1884 at (9.5, 63.0, 6.5)
+[21Jan2025 00:14:17.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[21Jan2025 00:14:17.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[21Jan2025 00:14:17.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[21Jan2025 00:14:17.423] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[21Jan2025 00:14:17.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[21Jan2025 00:14:17.445] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[21Jan2025 00:14:17.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[21Jan2025 00:14:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
+[21Jan2025 00:14:23.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop lost connection: Disconnected
+[21Jan2025 00:14:23.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop left the game
+[21Jan2025 00:16:18.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Stone Age]
+[21Jan2025 00:18:01.624] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[21Jan2025 00:18:05.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:52887] logged in with entity id 2544 at (9.5, 63.0, 6.5)
+[21Jan2025 00:18:05.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[21Jan2025 00:18:05.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[21Jan2025 00:18:05.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[21Jan2025 00:18:05.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[21Jan2025 00:18:05.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[21Jan2025 00:18:05.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[21Jan2025 00:18:05.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[21Jan2025 00:18:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
+[21Jan2025 00:19:00.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Getting an Upgrade]
