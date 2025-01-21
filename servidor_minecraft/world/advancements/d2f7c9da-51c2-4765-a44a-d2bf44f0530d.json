@@ -1054,6 +1054,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-21 05:25:15 +0000",
       "minecraft:skeleton": "2025-01-21 00:31:11 +0000",
       "minecraft:magma_cube": "2025-01-21 04:44:49 +0000",
       "minecraft:spider": "2025-01-21 01:16:45 +0000",
@@ -2244,6 +2245,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2025-01-21 05:25:15 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-01-21 04:39:44 +0000"
@@ -2253,6 +2260,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-21 05:25:15 +0000"
     },
     "done": true
   },
@@ -2307,6 +2320,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-21 05:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-21 05:26:17 +0000"
     },
     "done": true
   },
@@ -2385,6 +2404,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-01-21 04:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-21 05:26:17 +0000"
     },
     "done": true
   },
@@ -2622,6 +2647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 05:25:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-21 04:35:43 +0000"
@@ -2727,6 +2758,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-21 04:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 05:25:15 +0000"
     },
     "done": true
   },
