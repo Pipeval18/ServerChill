@@ -2027,3 +2027,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 20:40:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [21Jan2025 20:40:10.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 20:40:10.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:41:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was shot by Skeleton
+[21Jan2025 20:41:52.590] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[21Jan2025 20:45:10.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:45:10.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:50:10.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:50:10.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
