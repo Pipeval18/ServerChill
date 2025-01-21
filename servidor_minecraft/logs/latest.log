@@ -207,3 +207,7 @@
 [21Jan2025 03:45:35.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
 [21Jan2025 03:50:20.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
 [21Jan2025 03:50:58.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[21Jan2025 03:54:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 03:59:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[21Jan2025 04:02:05.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Hot Stuff]
+[21Jan2025 04:02:13.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Cleared any objectives in display slot sidebar]

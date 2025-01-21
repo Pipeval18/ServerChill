@@ -452,6 +452,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-21 00:55:35 +0000",
       "cooked_beef": "2025-01-21 00:23:58 +0000",
+      "baked_potato": "2025-01-21 03:55:10 +0000",
       "apple": "2025-01-21 02:39:53 +0000",
       "bread": "2025-01-21 00:41:58 +0000",
       "golden_apple": "2025-01-21 03:13:38 +0000",
@@ -1549,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-21 03:55:34 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-01-21 03:38:08 +0000"
@@ -1768,6 +1775,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-21 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-21 03:55:34 +0000"
     },
     "done": true
   },
@@ -2158,6 +2171,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-21 03:48:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-01-21 03:52:54 +0000"
     },
     "done": true
   },
