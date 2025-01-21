@@ -216,3 +216,7 @@
 [21Jan2025 22:46:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the weather to clear]
 [21Jan2025 23:22:15.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [21Jan2025 23:28:37.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[21Jan2025 23:36:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
+[21Jan2025 23:37:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 23:41:53.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 23:42:43.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
