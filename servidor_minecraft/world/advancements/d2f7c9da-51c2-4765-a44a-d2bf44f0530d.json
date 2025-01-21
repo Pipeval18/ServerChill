@@ -2208,6 +2208,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-21 04:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-21 03:22:27 +0000"
@@ -2283,6 +2295,12 @@
   "blue_skies:recipes/building_blocks/glowing_nature_stone": {
     "criteria": {
       "has_item": "2025-01-21 03:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-21 04:17:42 +0000"
     },
     "done": true
   },
