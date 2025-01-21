@@ -171,3 +171,14 @@
 [21Jan2025 02:40:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Enderman
 [21Jan2025 02:41:48.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set the time to 1000]
 [21Jan2025 02:42:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was blown up by Creeper
+[21Jan2025 02:55:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Created new objective [Deaths]]
+[21Jan2025 02:55:52.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set display slot sidebar to show objective Deaths]
+[21Jan2025 02:56:09.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for juanitoop to 5]
+[21Jan2025 02:56:29.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for Terrain32 to 5]
+[21Jan2025 02:56:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Juanitoop
+[21Jan2025 02:56:50.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for Terrain32 to 1]
+[21Jan2025 02:56:55.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for juanitoop to 1]
+[21Jan2025 02:56:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for juanitoop to 0]
+[21Jan2025 02:57:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for juanitoop to 0]
+[21Jan2025 02:57:07.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set [Deaths] for Terrain32 to 0]
+[21Jan2025 03:09:18.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
