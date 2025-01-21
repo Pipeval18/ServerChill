@@ -185,3 +185,18 @@
 [21Jan2025 03:20:30.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
 [21Jan2025 03:21:51.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
 [21Jan2025 03:21:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[21Jan2025 03:22:02.873] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[21Jan2025 03:22:06.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:55399] logged in with entity id 41532 at (-4529.042727674008, 64.0, -1004.1748061943357)
+[21Jan2025 03:22:06.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[21Jan2025 03:22:06.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[21Jan2025 03:22:06.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[21Jan2025 03:22:06.407] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[21Jan2025 03:22:06.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[21Jan2025 03:22:06.424] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[21Jan2025 03:22:06.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[21Jan2025 03:22:06.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[21Jan2025 03:22:48.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[21Jan2025 03:22:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
+[21Jan2025 03:35:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Enderman
+[21Jan2025 03:35:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
+[21Jan2025 03:37:12.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
