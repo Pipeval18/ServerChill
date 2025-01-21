@@ -278,3 +278,11 @@
 [21Jan2025 05:39:31.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [21Jan2025 05:51:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was blown up by Creeper
 [21Jan2025 05:53:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Local Brewery]
+[21Jan2025 05:58:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Zombie Doctor]
+[21Jan2025 06:01:45.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [The Parrots and the Bats]
+[21Jan2025 06:12:07.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Who is Cutting Onions?]
+[21Jan2025 06:16:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> el que lo lea es gay
+[21Jan2025 06:17:13.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop lost connection: Disconnected
+[21Jan2025 06:17:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop left the game
+[21Jan2025 06:17:32.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[21Jan2025 06:17:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
