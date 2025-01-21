@@ -81,6 +81,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-21 00:47:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-21 00:39:29 +0000"
@@ -1048,6 +1054,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-21 00:55:35 +0000",
       "cooked_beef": "2025-01-21 00:23:58 +0000",
       "bread": "2025-01-21 00:41:58 +0000",
       "rotten_flesh": "2025-01-21 00:43:09 +0000"
