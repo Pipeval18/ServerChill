@@ -2011,3 +2011,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Jan2025 00:18:05.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
 [21Jan2025 00:18:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
 [21Jan2025 00:19:00.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Getting an Upgrade]
+[21Jan2025 00:21:04.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Stone Age]
+[21Jan2025 00:21:05.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 00:21:05.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 00:21:15.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Getting an Upgrade]
+[21Jan2025 00:25:52.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 fell from a high place
+[21Jan2025 00:25:55.634] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[21Jan2025 00:26:05.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 00:26:05.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 00:26:35.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Acquire Hardware]
+[21Jan2025 00:26:45.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Isn't It Iron Pick]
+[21Jan2025 00:26:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Acquire Hardware]
+[21Jan2025 00:27:08.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Isn't It Iron Pick]
+[21Jan2025 00:29:24.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was blown up by Creeper
+[21Jan2025 00:29:25.676] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
