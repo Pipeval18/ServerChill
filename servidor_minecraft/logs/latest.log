@@ -221,3 +221,9 @@
 [21Jan2025 04:17:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [21Jan2025 04:17:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [A Seedy Place]
 [21Jan2025 04:20:39.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[21Jan2025 04:26:53.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Gamerule randomTickSpeed is now set to: 1]
+[21Jan2025 04:27:01.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Gamerule randomTickSpeed is now set to: 100]
+[21Jan2025 04:27:15.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Gamerule randomTickSpeed is now set to: 3000]
+[21Jan2025 04:27:22.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21Jan2025 04:27:26.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Gamerule randomTickSpeed is now set to: 1]
+[21Jan2025 04:32:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [We Need to Go Deeper]
