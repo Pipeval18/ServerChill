@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-21 02:08:30 +0000",
       "minecraft:birch_forest": "2025-01-21 00:14:18 +0000",
       "minecraft:beach": "2025-01-21 01:28:14 +0000",
       "minecraft:dark_forest": "2025-01-21 00:27:48 +0000",
@@ -17,6 +18,8 @@
       "minecraft:dripstone_caves": "2025-01-21 00:20:02 +0000",
       "minecraft:forest": "2025-01-21 01:25:04 +0000",
       "minecraft:jungle": "2025-01-21 00:31:18 +0000",
+      "minecraft:ocean": "2025-01-21 02:04:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-21 01:58:31 +0000",
       "minecraft:meadow": "2025-01-21 00:24:26 +0000",
       "minecraft:savanna": "2025-01-21 01:26:28 +0000",
       "minecraft:plains": "2025-01-21 01:24:40 +0000"
@@ -448,7 +451,9 @@
       "cooked_porkchop": "2025-01-21 00:55:35 +0000",
       "cooked_beef": "2025-01-21 00:23:58 +0000",
       "bread": "2025-01-21 00:41:58 +0000",
-      "rotten_flesh": "2025-01-21 00:43:09 +0000"
+      "rotten_flesh": "2025-01-21 00:43:09 +0000",
+      "cooked_chicken": "2025-01-21 02:23:48 +0000",
+      "carrot": "2025-01-21 02:18:23 +0000"
     },
     "done": false
   },
@@ -917,6 +922,7 @@
       "minecraft:cave_spider": "2025-01-21 00:30:32 +0000",
       "minecraft:enderman": "2025-01-21 00:34:33 +0000",
       "minecraft:zombie": "2025-01-21 00:31:11 +0000",
+      "minecraft:drowned": "2025-01-21 02:07:52 +0000",
       "minecraft:zombie_villager": "2025-01-21 00:41:04 +0000"
     },
     "done": false
@@ -1443,9 +1449,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-21 02:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-21 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-21 02:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-21 01:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-21 02:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-01-21 02:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-21 02:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-21 02:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-21 02:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-21 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-21 02:11:11 +0000"
     },
     "done": true
   },
