@@ -1,188 +1,162 @@
-[21Jan2025 01:04:02.936] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[21Jan2025 01:04:02.940] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[21Jan2025 01:04:03.325] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[21Jan2025 01:04:03.390] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerChill/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[21Jan2025 01:04:03.981] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 01:04:03.990] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 01:04:04.003] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 01:04:04.013] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 01:04:04.268] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[21Jan2025 01:04:07.387] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21Jan2025 01:04:07.434] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[21Jan2025 01:04:07.538] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Jan2025 01:04:07.562] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
-[21Jan2025 01:04:18.802] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
-[21Jan2025 01:04:18.881] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[21Jan2025 01:04:19.149] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[21Jan2025 01:04:19.482] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[21Jan2025 01:04:19.483] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[21Jan2025 01:04:19.747] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
-[21Jan2025 01:04:19.893] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[21Jan2025 01:04:19.905] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[21Jan2025 01:04:19.925] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[21Jan2025 01:04:19.935] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[21Jan2025 01:04:21.809] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[21Jan2025 01:04:21.819] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[21Jan2025 01:04:21.832] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[21Jan2025 01:04:21.870] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[21Jan2025 01:04:21.874] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[21Jan2025 01:04:21.883] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[21Jan2025 01:04:21.886] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[21Jan2025 01:04:21.888] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[21Jan2025 01:04:21.896] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[21Jan2025 01:04:21.898] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[21Jan2025 01:04:21.901] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[21Jan2025 01:04:21.904] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
-[21Jan2025 01:04:21.906] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
-[21Jan2025 01:04:24.488] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[21Jan2025 01:04:24.500] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[21Jan2025 01:04:24.503] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[21Jan2025 01:04:24.505] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[21Jan2025 01:04:24.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[21Jan2025 01:04:25.240] [main/INFO] [journeymap/]: Initializing Packet Registries
-[21Jan2025 01:04:25.331] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[21Jan2025 01:04:25.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[21Jan2025 01:04:25.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Jan2025 01:04:25.402] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[21Jan2025 01:04:25.470] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[21Jan2025 01:04:25.474] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[21Jan2025 01:04:25.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[21Jan2025 01:04:25.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[21Jan2025 01:04:25.488] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[21Jan2025 01:04:25.595] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[21Jan2025 01:04:25.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[21Jan2025 01:04:25.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[21Jan2025 01:04:25.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[21Jan2025 01:04:25.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[21Jan2025 01:04:25.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[21Jan2025 01:04:25.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[21Jan2025 01:04:26.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[21Jan2025 01:04:30.804] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Jan2025 01:04:34.294] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
-[21Jan2025 01:04:34.306] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
-[21Jan2025 01:04:38.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[21Jan2025 01:04:38.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[21Jan2025 01:04:38.985] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[21Jan2025 01:04:38.991] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[21Jan2025 01:04:38.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[21Jan2025 01:04:38.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[21Jan2025 01:04:39.017] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[21Jan2025 01:04:39.019] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[21Jan2025 01:04:39.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[21Jan2025 01:04:39.274] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2378 advancements
-[21Jan2025 01:04:39.278] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[21Jan2025 01:04:39.278] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[21Jan2025 01:04:39.279] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[21Jan2025 01:04:39.279] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[21Jan2025 01:04:39.296] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[21Jan2025 01:04:39.299] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[21Jan2025 01:04:39.299] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[21Jan2025 01:04:39.299] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[21Jan2025 01:04:39.301] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[21Jan2025 01:04:42.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[21Jan2025 01:04:42.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Jan2025 01:04:42.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Jan2025 01:04:42.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Jan2025 01:04:42.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Jan2025 01:04:42.685] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Jan2025 01:04:42.815] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jan2025 01:04:42.817] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jan2025 01:04:42.818] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21Jan2025 01:04:42.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Jan2025 01:04:43.333] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:44.668] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:45.804] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:47.007] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:47.148] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:47.332] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:47.585] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:49.893] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:50.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Jan2025 01:04:50.750] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:51.802] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:52.562] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:53.282] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:53.794] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:54.489] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:55.715] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:56.127] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:56.947] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:57.375] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:58.093] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:58.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.755] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.756] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.757] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.757] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.762] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.762] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.765] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.767] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.767] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.773] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:58.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:59.104] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:04:59.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:04:59.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:05:00.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 01:05:00.462] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:05:01.194] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10836 ms
-[21Jan2025 01:05:01.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.385s)! For help, type "help"
-[21Jan2025 01:05:01.218] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[21Jan2025 01:05:01.242] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Jan2025 01:05:01.245] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[21Jan2025 01:05:04.647] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
-[21Jan2025 01:05:08.147] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
-[21Jan2025 01:05:08.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:53613] logged in with entity id 116 at (-80.18200401343427, -13.0, -244.30000001192093)
-[21Jan2025 01:05:08.462] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
-[21Jan2025 01:05:08.486] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
-[21Jan2025 01:05:08.487] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
-[21Jan2025 01:05:08.487] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
-[21Jan2025 01:05:08.500] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
-[21Jan2025 01:05:08.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
-[21Jan2025 01:05:08.510] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
-[21Jan2025 01:05:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
-[21Jan2025 01:05:11.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[21Jan2025 01:05:13.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:54708] logged in with entity id 277 at (-79.81404388321383, -14.0, -241.66986924094428)
-[21Jan2025 01:05:13.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
-[21Jan2025 01:05:13.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
-[21Jan2025 01:05:13.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
-[21Jan2025 01:05:13.631] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
-[21Jan2025 01:05:13.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
-[21Jan2025 01:05:13.650] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
-[21Jan2025 01:05:13.650] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
-[21Jan2025 01:05:13.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
-[21Jan2025 01:05:46.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Diamonds!]
-[21Jan2025 01:06:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Hot Stuff]
-[21Jan2025 01:07:12.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
-[21Jan2025 01:08:02.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Ice Bucket Challenge]
-[21Jan2025 01:08:58.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
-[21Jan2025 01:17:10.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
-[21Jan2025 01:20:36.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Spyglass] to Terrain32]
-[21Jan2025 01:20:40.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Spyglass] to Terrain32]
-[21Jan2025 01:21:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
-[21Jan2025 01:26:23.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
-[21Jan2025 01:27:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was blown up by Creeper
-[21Jan2025 01:27:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
-[21Jan2025 01:28:33.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was shot by Skeleton
-[21Jan2025 01:28:39.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
-[21Jan2025 01:29:25.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Sweet Dreams]
-[21Jan2025 01:29:32.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Sweet Dreams]
-[21Jan2025 01:30:51.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
-[21Jan2025 01:30:51.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
-[21Jan2025 01:31:19.362] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
-[21Jan2025 01:31:22.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:54811] logged in with entity id 8333 at (-91.3810712412077, 63.0, -1110.7533155328354)
-[21Jan2025 01:31:22.747] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
-[21Jan2025 01:31:22.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
-[21Jan2025 01:31:22.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
-[21Jan2025 01:31:22.748] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
-[21Jan2025 01:31:22.758] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
-[21Jan2025 01:31:22.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
-[21Jan2025 01:31:22.774] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
-[21Jan2025 01:31:22.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[21Jan2025 01:50:26.017] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Jan2025 01:50:26.026] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Jan2025 01:50:26.727] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Jan2025 01:50:26.807] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerChill/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Jan2025 01:50:27.192] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 01:50:27.196] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 01:50:27.200] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 01:50:27.202] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 01:50:27.426] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[21Jan2025 01:50:31.068] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Jan2025 01:50:31.200] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Jan2025 01:50:31.333] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Jan2025 01:50:31.341] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Jan2025 01:50:42.927] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[21Jan2025 01:50:43.008] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[21Jan2025 01:50:43.273] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[21Jan2025 01:50:43.615] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Jan2025 01:50:43.615] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Jan2025 01:50:43.940] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[21Jan2025 01:50:44.100] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[21Jan2025 01:50:44.117] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[21Jan2025 01:50:44.151] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[21Jan2025 01:50:44.170] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[21Jan2025 01:50:45.832] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[21Jan2025 01:50:45.841] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[21Jan2025 01:50:45.844] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[21Jan2025 01:50:45.890] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[21Jan2025 01:50:45.894] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[21Jan2025 01:50:45.903] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[21Jan2025 01:50:45.907] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[21Jan2025 01:50:45.912] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[21Jan2025 01:50:45.919] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[21Jan2025 01:50:45.923] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[21Jan2025 01:50:45.925] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[21Jan2025 01:50:45.928] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[21Jan2025 01:50:45.932] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[21Jan2025 01:50:48.431] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[21Jan2025 01:50:48.443] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[21Jan2025 01:50:48.445] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[21Jan2025 01:50:48.447] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[21Jan2025 01:50:48.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[21Jan2025 01:50:48.999] [main/INFO] [journeymap/]: Initializing Packet Registries
+[21Jan2025 01:50:49.177] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[21Jan2025 01:50:49.192] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[21Jan2025 01:50:49.208] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[21Jan2025 01:50:49.209] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[21Jan2025 01:50:49.211] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[21Jan2025 01:50:49.295] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[21Jan2025 01:50:49.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[21Jan2025 01:50:49.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Jan2025 01:50:49.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[21Jan2025 01:50:49.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[21Jan2025 01:50:49.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[21Jan2025 01:50:49.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[21Jan2025 01:50:49.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[21Jan2025 01:50:49.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21Jan2025 01:50:49.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[21Jan2025 01:50:49.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[21Jan2025 01:50:50.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[21Jan2025 01:50:55.444] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Jan2025 01:50:59.129] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
+[21Jan2025 01:50:59.130] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
+[21Jan2025 01:51:03.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[21Jan2025 01:51:03.443] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[21Jan2025 01:51:03.454] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[21Jan2025 01:51:03.455] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[21Jan2025 01:51:03.461] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[21Jan2025 01:51:03.466] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[21Jan2025 01:51:03.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[21Jan2025 01:51:03.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[21Jan2025 01:51:03.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[21Jan2025 01:51:03.708] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2378 advancements
+[21Jan2025 01:51:03.727] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[21Jan2025 01:51:03.727] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[21Jan2025 01:51:03.728] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[21Jan2025 01:51:03.728] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[21Jan2025 01:51:03.757] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[21Jan2025 01:51:03.760] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[21Jan2025 01:51:03.760] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[21Jan2025 01:51:03.760] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[21Jan2025 01:51:03.774] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[21Jan2025 01:51:06.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Jan2025 01:51:06.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Jan2025 01:51:06.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Jan2025 01:51:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Jan2025 01:51:07.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Jan2025 01:51:07.325] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Jan2025 01:51:07.482] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Jan2025 01:51:07.485] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Jan2025 01:51:07.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Jan2025 01:51:14.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Jan2025 01:51:18.417] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:20.518] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:21.361] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:22.234] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:22.903] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.914] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:22.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.950] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.954] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.959] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.964] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:22.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.006] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.012] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.018] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.039] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:23.371] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:23.517] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:24.009] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:24.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 01:51:24.539] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:24.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[21Jan2025 01:51:24.865] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 01:51:25.089] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10572 ms
+[21Jan2025 01:51:25.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.618s)! For help, type "help"
+[21Jan2025 01:51:25.136] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Jan2025 01:51:25.140] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[21Jan2025 01:51:27.817] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[21Jan2025 01:51:31.168] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[21Jan2025 01:51:31.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:54013] logged in with entity id 106 at (-191.07251558933126, 73.0, -982.0871165156722)
+[21Jan2025 01:51:31.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[21Jan2025 01:51:31.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[21Jan2025 01:51:31.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[21Jan2025 01:51:31.604] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[21Jan2025 01:51:31.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[21Jan2025 01:51:31.652] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[21Jan2025 01:51:31.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[21Jan2025 01:51:31.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
+[21Jan2025 01:51:35.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[21Jan2025 01:51:39.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:54894] logged in with entity id 310 at (-191.0728582453299, 73.0, -978.4634420745426)
+[21Jan2025 01:51:39.471] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[21Jan2025 01:51:39.473] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[21Jan2025 01:51:39.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[21Jan2025 01:51:39.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[21Jan2025 01:51:39.486] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[21Jan2025 01:51:39.500] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[21Jan2025 01:51:39.503] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[21Jan2025 01:51:39.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[21Jan2025 01:51:56.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6217ms or 124 ticks behind
+[21Jan2025 01:53:29.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[21Jan2025 01:53:29.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[21Jan2025 01:53:39.831] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[21Jan2025 01:53:43.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:54918] logged in with entity id 1215 at (-193.68582911501224, 71.0, -985.6847799796127)
+[21Jan2025 01:53:43.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[21Jan2025 01:53:43.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[21Jan2025 01:53:43.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[21Jan2025 01:53:43.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[21Jan2025 01:53:43.456] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[21Jan2025 01:53:43.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[21Jan2025 01:53:43.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[21Jan2025 01:53:43.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[21Jan2025 01:54:23.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[21Jan2025 01:55:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Best Friends Forever]
+[21Jan2025 01:59:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
