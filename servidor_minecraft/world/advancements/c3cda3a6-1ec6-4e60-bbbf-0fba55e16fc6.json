@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-01-21 02:08:30 +0000",
+      "minecraft:sunflower_plains": "2025-01-21 02:29:06 +0000",
       "minecraft:birch_forest": "2025-01-21 00:14:18 +0000",
       "minecraft:beach": "2025-01-21 01:28:14 +0000",
       "minecraft:dark_forest": "2025-01-21 00:27:48 +0000",
@@ -19,6 +20,7 @@
       "minecraft:forest": "2025-01-21 01:25:04 +0000",
       "minecraft:jungle": "2025-01-21 00:31:18 +0000",
       "minecraft:ocean": "2025-01-21 02:04:53 +0000",
+      "minecraft:flower_forest": "2025-01-21 02:30:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-21 01:58:31 +0000",
       "minecraft:meadow": "2025-01-21 00:24:26 +0000",
       "minecraft:savanna": "2025-01-21 01:26:28 +0000",
@@ -450,6 +452,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-21 00:55:35 +0000",
       "cooked_beef": "2025-01-21 00:23:58 +0000",
+      "apple": "2025-01-21 02:39:53 +0000",
       "bread": "2025-01-21 00:41:58 +0000",
       "rotten_flesh": "2025-01-21 00:43:09 +0000",
       "cooked_chicken": "2025-01-21 02:23:48 +0000",
@@ -1491,9 +1494,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-21 02:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-21 01:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-21 02:28:08 +0000"
     },
     "done": true
   },
@@ -1509,15 +1524,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 02:28:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-01-21 02:14:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-21 02:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-21 02:29:14 +0000"
     },
     "done": true
   },
@@ -1530,6 +1563,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 02:27:59 +0000"
     },
     "done": true
   },
@@ -1563,15 +1602,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-21 02:43:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-21 02:14:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 02:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-21 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-21 02:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-21 02:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-21 02:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 02:27:37 +0000"
     },
     "done": true
   },
