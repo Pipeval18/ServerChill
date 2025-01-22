@@ -1705,3 +1705,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 01:25:54.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jan2025 01:30:53.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 01:30:53.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:35:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[22Jan2025 01:35:18.399] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[22Jan2025 01:35:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[22Jan2025 01:35:40.098] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[22Jan2025 01:35:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 01:35:53.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:35:53.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:36:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin
+[22Jan2025 01:36:21.892] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[22Jan2025 01:36:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin
+[22Jan2025 01:36:25.464] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[22Jan2025 01:36:33.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[22Jan2025 01:36:35.133] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[22Jan2025 01:36:35.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 0.0,-10.552156848139546,0.0
+[22Jan2025 01:36:39.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop tried to swim in lava
+[22Jan2025 01:36:40.753] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[22Jan2025 01:36:42.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[22Jan2025 01:36:44.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[22Jan2025 01:36:51.839] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[22Jan2025 01:37:20.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:37:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was shot by Piglin
+[22Jan2025 01:37:57.590] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[22Jan2025 01:38:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:38:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was doomed to fall
+[22Jan2025 01:38:09.476] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[22Jan2025 01:38:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:39:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:40:56.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:40:56.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:41:07.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
