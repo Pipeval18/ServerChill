@@ -1635,3 +1635,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 00:47:30.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20348ms or 406 ticks behind
 [22Jan2025 00:50:37.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 00:50:37.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:53:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Ol' Betsy]
+[22Jan2025 00:55:37.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 00:55:37.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:59:27.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 01:00:36.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! 7.815132254841046,1.0013359791121417,-6.292673586092974
+[22Jan2025 01:00:37.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10545ms or 210 ticks behind
+[22Jan2025 01:00:48.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:00:48.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:02:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 01:02:47.349] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-751, y=82, z=133}) doesn't have enough leaves around top most log
+[22Jan2025 01:03:02.297] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-751, y=82, z=134}) doesn't have enough leaves around top most log
+[22Jan2025 01:03:24.388] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100

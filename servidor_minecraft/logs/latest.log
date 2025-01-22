@@ -141,3 +141,8 @@
 [22Jan2025 00:46:55.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
 [22Jan2025 00:47:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Gamerule randomTickSpeed is now set to: 1]
 [22Jan2025 00:47:30.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20348ms or 406 ticks behind
+[22Jan2025 00:53:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Ol' Betsy]
+[22Jan2025 00:59:27.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 01:00:36.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! 7.815132254841046,1.0013359791121417,-6.292673586092974
+[22Jan2025 01:00:37.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10545ms or 210 ticks behind
+[22Jan2025 01:02:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
