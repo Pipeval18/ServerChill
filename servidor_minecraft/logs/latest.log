@@ -146,3 +146,33 @@
 [22Jan2025 01:00:36.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! 7.815132254841046,1.0013359791121417,-6.292673586092974
 [22Jan2025 01:00:37.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10545ms or 210 ticks behind
 [22Jan2025 01:02:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 01:05:13.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:07:17.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Ol' Betsy]
+[22Jan2025 01:09:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:15:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin Brute
+[22Jan2025 01:15:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:16:04.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [War Pigs]
+[22Jan2025 01:16:05.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin
+[22Jan2025 01:16:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:17:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[22Jan2025 01:17:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 01:17:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin
+[22Jan2025 01:17:37.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[22Jan2025 01:17:38.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin Brute
+[22Jan2025 01:17:54.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Piglin Brute
+[22Jan2025 01:18:04.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:18:13.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was doomed to fall by Piglin
+[22Jan2025 01:18:14.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Piglin Brute
+[22Jan2025 01:18:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:18:24.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[22Jan2025 01:18:26.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 tried to swim in lava to escape Magma Cube
+[22Jan2025 01:18:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop tried to swim in lava
+[22Jan2025 01:18:46.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was shot by Piglin
+[22Jan2025 01:19:06.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Magma Cube
+[22Jan2025 01:19:17.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[22Jan2025 01:19:31.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop tried to swim in lava to escape Piglin
+[22Jan2025 01:19:38.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:19:55.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Magma Cube
+[22Jan2025 01:20:00.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:24:24.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop burned to death
+[22Jan2025 01:25:34.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
