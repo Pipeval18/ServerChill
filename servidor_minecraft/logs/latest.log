@@ -211,3 +211,17 @@
 [22Jan2025 02:10:43.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
 [22Jan2025 02:10:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [The End?]
 [22Jan2025 02:10:53.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 4951.826501651682,6.464159374955443,3065.7187400726184
+[22Jan2025 02:17:57.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Free the End]
+[22Jan2025 02:17:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was killed by Ender Dragon using magic
+[22Jan2025 02:18:00.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 0.0,-11.344152045580849,0.0
+[22Jan2025 02:18:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop fell from a high place
+[22Jan2025 02:18:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:18:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 02:18:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:19:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [The Next Generation]
+[22Jan2025 02:19:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [The Next Generation]
+[22Jan2025 02:19:37.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:20:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Remote Getaway]
+[22Jan2025 02:20:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Remote Getaway]
+[22Jan2025 02:22:36.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 02:23:27.066] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 141 ms
