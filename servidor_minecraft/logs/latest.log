@@ -238,3 +238,9 @@
 [22Jan2025 02:43:47.032] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 174 ms
 [22Jan2025 02:43:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to -1215.500000, 60.000000, 704.500000]
 [22Jan2025 02:44:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:47:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Sky's the Limit]
+[22Jan2025 02:50:27.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 02:52:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:52:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has completed the challenge [Great View From Up Here]
+[22Jan2025 02:54:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 02:55:37.833] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
