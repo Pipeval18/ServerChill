@@ -244,3 +244,9 @@
 [22Jan2025 02:52:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has completed the challenge [Great View From Up Here]
 [22Jan2025 02:54:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [22Jan2025 02:55:37.833] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[22Jan2025 02:57:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:58:36.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Sky's the Limit]
+[22Jan2025 02:59:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was doomed to fall
+[22Jan2025 02:59:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 03:03:37.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop lost connection: Timed out
+[22Jan2025 03:03:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop left the game

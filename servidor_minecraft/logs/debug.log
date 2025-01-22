@@ -1817,3 +1817,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 02:52:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has completed the challenge [Great View From Up Here]
 [22Jan2025 02:54:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [22Jan2025 02:55:37.833] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[22Jan2025 02:56:08.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:56:08.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:57:15.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:58:36.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Sky's the Limit]
+[22Jan2025 02:59:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was doomed to fall
+[22Jan2025 02:59:29.783] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[22Jan2025 02:59:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 03:01:08.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 03:01:08.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 03:03:37.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop lost connection: Timed out
+[22Jan2025 03:03:37.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop left the game
