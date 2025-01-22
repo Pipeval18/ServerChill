@@ -196,3 +196,18 @@
 [22Jan2025 01:45:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [22Jan2025 01:47:49.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
 [22Jan2025 01:49:40.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! -3.0851130618857496,-1.2468000194787976,-9.588771497030393
+[22Jan2025 01:58:05.657] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:stronghold took 0 ms
+[22Jan2025 01:59:01.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 01:59:21.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4884, y=54, z=-3044} BlockPos{x=-4884, y=55, z=-3044}
+[22Jan2025 02:00:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 02:00:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Eye Spy]
+[22Jan2025 02:00:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Eye Spy]
+[22Jan2025 02:06:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:09:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[22Jan2025 02:10:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [The End?]
+[22Jan2025 02:10:40.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! 4951.405744044601,6.3926045499513435,3066.2986411684587
+[22Jan2025 02:10:42.597] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[22Jan2025 02:10:42.598] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[22Jan2025 02:10:43.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
+[22Jan2025 02:10:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [The End?]
+[22Jan2025 02:10:53.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 4951.826501651682,6.464159374955443,3065.7187400726184
