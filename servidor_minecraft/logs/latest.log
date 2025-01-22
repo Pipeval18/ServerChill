@@ -228,3 +228,13 @@
 [22Jan2025 02:28:49.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [The City at the End of the Game]
 [22Jan2025 02:32:33.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [22Jan2025 02:32:34.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [The City at the End of the Game]
+[22Jan2025 02:36:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop fell from a high place
+[22Jan2025 02:40:34.951] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[22Jan2025 02:40:50.256] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[22Jan2025 02:41:01.296] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 0 ms
+[22Jan2025 02:41:35.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6602ms or 132 ticks behind
+[22Jan2025 02:41:35.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 7.595929354566351,1.247851099632534,-6.766831512449244
+[22Jan2025 02:42:32.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[22Jan2025 02:43:47.032] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 174 ms
+[22Jan2025 02:43:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to -1215.500000, 60.000000, 704.500000]
+[22Jan2025 02:44:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]

@@ -933,6 +933,7 @@
       "minecraft:phantom": "2025-01-22 00:53:45 +0000",
       "minecraft:witch": "2025-01-21 01:30:46 +0000",
       "minecraft:wither_skeleton": "2025-01-21 05:21:23 +0000",
+      "minecraft:shulker": "2025-01-22 02:33:25 +0000",
       "minecraft:cave_spider": "2025-01-21 00:30:32 +0000",
       "minecraft:piglin": "2025-01-22 01:03:04 +0000",
       "minecraft:enderman": "2025-01-21 00:34:33 +0000",
@@ -3393,6 +3394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-01-22 02:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-01-22 02:19:05 +0000"
@@ -3495,6 +3502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-01-22 02:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-22 01:18:45 +0000"
@@ -3549,6 +3562,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-22 02:32:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-01-22 02:20:08 +0000"
@@ -3564,6 +3583,18 @@
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-01-22 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-01-22 02:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-22 02:33:59 +0000"
     },
     "done": true
   },
@@ -3588,6 +3619,12 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-01-22 01:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-22 02:33:59 +0000"
     },
     "done": true
   },
@@ -3621,6 +3658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-22 02:34:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-22 02:00:12 +0000"
@@ -3636,6 +3679,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-01-22 01:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-01-22 02:33:59 +0000"
     },
     "done": true
   },

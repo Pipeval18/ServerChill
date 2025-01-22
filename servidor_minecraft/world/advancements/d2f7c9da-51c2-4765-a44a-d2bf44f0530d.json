@@ -3589,6 +3589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-01-22 02:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-22 02:06:40 +0000"
@@ -3646,6 +3652,12 @@
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
     "criteria": {
       "has_item": "2025-01-22 01:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-22 02:31:02 +0000"
     },
     "done": true
   },
