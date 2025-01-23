@@ -136,3 +136,7 @@
 [23Jan2025 18:02:32.566] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [23Jan2025 18:02:41.159] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [23Jan2025 18:03:27.960] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[23Jan2025 19:23:18.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Jan2025 19:23:39.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Jan2025 19:27:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Jan2025 19:27:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
