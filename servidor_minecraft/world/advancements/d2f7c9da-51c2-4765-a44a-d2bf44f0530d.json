@@ -22,6 +22,7 @@
       "minecraft:cold_ocean": "2025-01-22 01:55:31 +0000",
       "minecraft:forest": "2025-01-21 01:57:57 +0000",
       "minecraft:deep_cold_ocean": "2025-01-22 01:56:30 +0000",
+      "minecraft:desert": "2025-01-23 23:03:28 +0000",
       "minecraft:jungle": "2025-01-21 00:31:21 +0000",
       "minecraft:ocean": "2025-01-21 02:03:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-23 00:40:01 +0000",
@@ -7137,9 +7138,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-23 23:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-23 23:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-23 23:05:42 +0000"
     },
     "done": true
   },
@@ -7164,6 +7177,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-23 23:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-23 23:05:42 +0000"
     },
     "done": true
   },
