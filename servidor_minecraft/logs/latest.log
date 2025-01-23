@@ -155,3 +155,13 @@
 [23Jan2025 23:04:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to -5823.500000, 70.000000, 500.500000]
 [23Jan2025 23:05:27.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5779, y=48, z=167} BlockPos{x=-5779, y=49, z=167}
 [23Jan2025 23:13:44.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Jan2025 23:43:30.361] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[23Jan2025 23:43:34.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:61002] logged in with entity id 15175 at (-4602.300000011921, 70.5, -1001.3000000119209)
+[23Jan2025 23:43:34.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[23Jan2025 23:43:34.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[23Jan2025 23:43:34.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[23Jan2025 23:43:34.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[23Jan2025 23:43:34.452] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[23Jan2025 23:43:34.462] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[23Jan2025 23:43:34.464] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[23Jan2025 23:43:34.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
