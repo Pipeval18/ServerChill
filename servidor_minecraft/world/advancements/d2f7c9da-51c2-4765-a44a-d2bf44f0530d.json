@@ -6909,6 +6909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-23 19:58:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-23 19:25:33 +0000"
@@ -6948,6 +6954,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-01-23 19:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-23 19:58:33 +0000"
     },
     "done": true
   },
@@ -7011,6 +7023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-23 19:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-23 19:25:33 +0000"
@@ -7050,6 +7068,12 @@
   "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-23 19:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-01-23 19:58:33 +0000"
     },
     "done": true
   },
