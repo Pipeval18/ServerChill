@@ -6951,6 +6951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-01-23 19:38:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-01-23 19:25:33 +0000"
@@ -6966,6 +6972,12 @@
   "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-23 19:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-01-23 19:38:15 +0000"
     },
     "done": true
   },
