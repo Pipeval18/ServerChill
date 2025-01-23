@@ -157,3 +157,15 @@
 [23Jan2025 04:37:08.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
 [23Jan2025 04:37:08.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
 [23Jan2025 06:04:19.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68605, l='ServerLevel[world]', x=-4573.50, y=64.06, z=-969.51] died, message: 'Villager was slain by Zombie'
+[23Jan2025 06:39:48.019] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[23Jan2025 06:39:51.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:50205] logged in with entity id 79261 at (-4602.300000011921, 70.5, -1002.6999999880791)
+[23Jan2025 06:39:51.911] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[23Jan2025 06:39:51.912] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[23Jan2025 06:39:51.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[23Jan2025 06:39:51.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[23Jan2025 06:39:51.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[23Jan2025 06:39:51.924] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[23Jan2025 06:39:51.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[23Jan2025 06:39:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[23Jan2025 06:43:04.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79626, l='ServerLevel[world]', x=-4621.92, y=64.00, z=-1017.06] died, message: 'Villager was slain by Terrain32'
+[23Jan2025 06:43:18.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66143, l='ServerLevel[world]', x=-4610.72, y=64.00, z=-997.70] died, message: 'Villager was slain by Terrain32'
