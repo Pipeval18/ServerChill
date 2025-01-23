@@ -5596,6 +5596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-23 02:05:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2025-01-23 00:49:08 +0000"
@@ -5896,6 +5902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-23 02:05:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-01-23 01:18:34 +0000"
@@ -5917,6 +5929,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-23 00:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-23 02:05:09 +0000"
     },
     "done": true
   },
