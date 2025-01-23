@@ -192,3 +192,7 @@
 [23Jan2025 07:54:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was shot by Skeleton
 [23Jan2025 08:17:03.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
 [23Jan2025 08:17:31.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Jan2025 08:25:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Jan2025 08:25:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Jan2025 08:27:48.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Jan2025 08:27:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
