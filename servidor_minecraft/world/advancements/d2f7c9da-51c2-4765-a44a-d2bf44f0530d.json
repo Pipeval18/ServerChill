@@ -13,6 +13,7 @@
       "minecraft:birch_forest": "2025-01-20 23:37:50 +0000",
       "minecraft:beach": "2025-01-21 01:28:48 +0000",
       "minecraft:dark_forest": "2025-01-21 00:29:08 +0000",
+      "minecraft:mangrove_swamp": "2025-01-23 06:50:05 +0000",
       "minecraft:sparse_jungle": "2025-01-21 01:24:58 +0000",
       "minecraft:river": "2025-01-21 00:19:51 +0000",
       "minecraft:lukewarm_ocean": "2025-01-21 01:28:39 +0000",
@@ -24,6 +25,7 @@
       "minecraft:jungle": "2025-01-21 00:31:21 +0000",
       "minecraft:ocean": "2025-01-21 02:03:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-23 00:40:01 +0000",
+      "minecraft:flower_forest": "2025-01-23 07:05:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-21 00:19:55 +0000",
       "minecraft:meadow": "2025-01-21 00:25:48 +0000",
       "minecraft:savanna": "2025-01-21 01:26:26 +0000",
@@ -6717,6 +6719,162 @@
   "refurbished_furniture:recipes/decorations/lime_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-23 04:28:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-01-23 06:52:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-01-23 06:51:31 +0000"
     },
     "done": true
   },
