@@ -68,3 +68,9 @@
 [23Jan2025 03:25:05.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
 [23Jan2025 03:34:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
 [23Jan2025 03:45:22.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 fell from a high place
+[23Jan2025 04:01:25.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arfausto'/58871, l='ServerLevel[world]', x=-4616.11, y=67.00, z=-1000.55] died, message: 'Arfausto was slain by Terrain32'
+[23Jan2025 04:01:25.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Arfausto'/58871, l='ServerLevel[world]', x=-4616.11, y=67.00, z=-1000.55] died: Arfausto was slain by Terrain32
+[23Jan2025 04:01:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Jan2025 04:03:58.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Jan2025 04:04:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Jan2025 04:06:05.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the weather to clear]

@@ -6340,6 +6340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-23 04:02:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-23 03:38:14 +0000"
