@@ -159,3 +159,5 @@
 [24Jan2025 07:49:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [24Jan2025 07:49:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
 [24Jan2025 07:50:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[24Jan2025 08:13:23.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[24Jan2025 08:13:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game

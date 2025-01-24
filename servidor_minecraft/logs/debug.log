@@ -1705,3 +1705,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 08:07:04.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jan2025 08:07:04.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Jan2025 08:09:52.056] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/SidedInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[24Jan2025 08:11:24.154] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1014}
+[24Jan2025 08:11:24.154] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1013}
+[24Jan2025 08:12:05.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 08:12:05.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 08:13:23.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[24Jan2025 08:13:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[24Jan2025 08:13:23.451] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1014}
+[24Jan2025 08:13:23.451] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1013}
+[24Jan2025 08:17:04.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 08:17:04.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
