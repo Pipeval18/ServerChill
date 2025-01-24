@@ -7327,6 +7327,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2025-01-24 05:21:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/packed_ice": {
     "criteria": {
       "has_result": "2025-01-24 05:22:59 +0000"
@@ -7336,12 +7342,6 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-01-24 05:22:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/blue_ice": {
-    "criteria": {
-      "has_result": "2025-01-24 05:21:35 +0000"
     },
     "done": true
   },
