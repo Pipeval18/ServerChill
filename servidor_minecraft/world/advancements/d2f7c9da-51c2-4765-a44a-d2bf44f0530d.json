@@ -1002,6 +1002,7 @@
       "minecraft:blaze": "2025-01-21 05:25:15 +0000",
       "minecraft:skeleton": "2025-01-21 00:31:11 +0000",
       "minecraft:ghast": "2025-01-21 20:27:52 +0000",
+      "minecraft:guardian": "2025-01-24 00:05:29 +0000",
       "minecraft:magma_cube": "2025-01-21 04:44:49 +0000",
       "minecraft:spider": "2025-01-21 01:16:45 +0000",
       "minecraft:piglin_brute": "2025-01-21 04:44:45 +0000",
@@ -7138,21 +7139,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-01-23 23:05:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-23 23:00:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-01-23 23:05:42 +0000"
     },
     "done": true
   },
@@ -7177,12 +7166,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-23 23:00:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-01-23 23:05:42 +0000"
     },
     "done": true
   },
@@ -7216,15 +7199,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-23 23:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-23 23:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-23 23:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-23 23:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-23 23:28:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
     "criteria": {
-      "has_deepslate_bricks": "2025-01-23 23:00:06 +0000"
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
+    "criteria": {
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-01-23 23:52:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-01-24 00:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-24 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-24 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-24 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-24 00:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-24 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-24 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-24 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-24 00:30:44 +0000"
     },
     "done": true
   },
