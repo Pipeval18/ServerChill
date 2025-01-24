@@ -261,3 +261,5 @@
 [24Jan2025 07:14:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 1000]
 [24Jan2025 07:14:19.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the weather to clear]
 [24Jan2025 07:15:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[24Jan2025 07:23:20.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Zombie 1'/35480, l='ServerLevel[world]', x=-3971.31, y=110.45, z=-521.69] died: Zombie 1 was slain by Terrain32
+[24Jan2025 07:25:26.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
