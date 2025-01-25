@@ -137,3 +137,7 @@
 [25Jan2025 01:39:24.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
 [25Jan2025 01:39:28.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5676ms or 113 ticks behind
 [25Jan2025 01:39:51.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7474ms or 149 ticks behind
+[25Jan2025 02:01:14.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2927ms or 58 ticks behind
+[25Jan2025 02:02:27.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[25Jan2025 02:05:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Bring Home the Beacon]
+[25Jan2025 02:08:52.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
