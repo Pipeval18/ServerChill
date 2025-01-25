@@ -7352,6 +7352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-25 03:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-01-25 02:35:01 +0000"
@@ -7367,6 +7373,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-01-25 02:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-25 03:13:48 +0000"
     },
     "done": true
   },
