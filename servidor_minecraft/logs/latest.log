@@ -166,3 +166,42 @@
 [25Jan2025 04:12:00.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
 [25Jan2025 04:12:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
 [25Jan2025 05:09:59.032] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[25Jan2025 05:10:03.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:55665] logged in with entity id 33014 at (-4523.632390093241, 65.0, -1034.5022149208876)
+[25Jan2025 05:10:03.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[25Jan2025 05:10:03.321] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[25Jan2025 05:10:03.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[25Jan2025 05:10:03.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[25Jan2025 05:10:03.347] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[25Jan2025 05:10:03.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[25Jan2025 05:10:03.389] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[25Jan2025 05:10:03.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[25Jan2025 05:10:45.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 05:10:58.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33050, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1034.50] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:19.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33048, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1032.30] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:22.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33041, l='ServerLevel[world]', x=-4520.07, y=64.56, z=-1026.30] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:23.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33055, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1022.55] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:23.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33045, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1030.49] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:23.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33044, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1028.34] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:23.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33049, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1034.50] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:25.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33040, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1024.30] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:26.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33056, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1022.67] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:26.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33039, l='ServerLevel[world]', x=-4526.52, y=64.56, z=-1024.50] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:27.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33042, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1026.50] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:28.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33046, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1030.50] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:28.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33043, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1028.36] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:11:35.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33034, l='ServerLevel[world]', x=-4520.00, y=64.56, z=-1046.52] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:37.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33025, l='ServerLevel[world]', x=-4519.46, y=64.60, z=-1048.68] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:39.610] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33030, l='ServerLevel[world]', x=-4519.30, y=64.67, z=-1050.70] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:42.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33033, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1048.57] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:44.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33026, l='ServerLevel[world]', x=-4527.70, y=64.67, z=-1046.30] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:46.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33031, l='ServerLevel[world]', x=-4527.66, y=64.67, z=-1050.69] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:48.943] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33029, l='ServerLevel[world]', x=-4526.53, y=64.56, z=-1052.50] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:50.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33027, l='ServerLevel[world]', x=-4527.69, y=64.60, z=-1054.64] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:52.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33017, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1056.50] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:54.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33015, l='ServerLevel[world]', x=-4527.47, y=64.58, z=-1058.66] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:57.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33016, l='ServerLevel[world]', x=-4519.54, y=64.56, z=-1058.56] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:11:59.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33018, l='ServerLevel[world]', x=-4519.30, y=64.60, z=-1056.65] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:12:01.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33028, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1054.51] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:12:03.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33032, l='ServerLevel[world]', x=-4519.34, y=64.58, z=-1052.34] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:12:21.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33047, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1032.50] died, message: 'Villager was slain by Zombie'
+[25Jan2025 05:14:16.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
