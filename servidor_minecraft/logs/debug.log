@@ -1694,3 +1694,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jan2025 17:49:13.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
 [25Jan2025 17:50:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
 [25Jan2025 17:50:38.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:51:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:52:25.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:52:27.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 17:52:27.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 17:53:00.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:53:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:54:28.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:57:26.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1790, l='ServerLevel[world]', x=-4526.30, y=57.56, z=-1022.70] died, message: 'Cartographer was slain by Zombie'
+[25Jan2025 17:57:26.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1885, l='ServerLevel[world]', x=-4520.70, y=57.56, z=-1022.30] died, message: 'Cartographer was slain by Zombie'
+[25Jan2025 17:57:26.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 17:57:27.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 17:57:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:58:58.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 17:59:52.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
