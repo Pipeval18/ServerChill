@@ -205,3 +205,6 @@
 [25Jan2025 05:12:03.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33032, l='ServerLevel[world]', x=-4519.34, y=64.58, z=-1052.34] died, message: 'Villager was slain by Terrain32'
 [25Jan2025 05:12:21.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33047, l='ServerLevel[world]', x=-4526.30, y=64.56, z=-1032.50] died, message: 'Villager was slain by Zombie'
 [25Jan2025 05:14:16.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 05:26:13.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33859, l='ServerLevel[world]', x=-4589.49, y=64.00, z=-1035.61] died, message: 'Villager was burnt to a crisp whilst fighting Terrain32'
+[25Jan2025 05:26:39.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34912, l='ServerLevel[world]', x=-4561.95, y=64.00, z=-981.63] died, message: 'Villager was burnt to a crisp whilst fighting Terrain32'
+[25Jan2025 05:29:32.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]

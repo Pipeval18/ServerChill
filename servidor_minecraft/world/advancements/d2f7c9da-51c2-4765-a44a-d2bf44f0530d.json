@@ -7820,5 +7820,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-01-25 05:21:54 +0000",
+      "minecraft:black": "2025-01-25 05:21:56 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
