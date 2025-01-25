@@ -264,3 +264,12 @@
 [25Jan2025 06:18:40.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/39906, l='ServerLevel[world]', x=-4573.50, y=64.00, z=-1020.01] died, message: 'Librarian was slain by Terrain32'
 [25Jan2025 06:19:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Iron Golem
 [25Jan2025 06:20:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 06:21:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 06:21:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 06:22:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 06:23:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 06:25:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 06:27:54.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 06:29:03.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/40708, l='ServerLevel[world]', x=-4564.10, y=62.42, z=-1145.31] died, message: 'Librarian was slain by Terrain32'
+[25Jan2025 06:29:13.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 06:30:09.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
