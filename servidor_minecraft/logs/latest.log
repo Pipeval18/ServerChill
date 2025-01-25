@@ -208,3 +208,33 @@
 [25Jan2025 05:26:13.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33859, l='ServerLevel[world]', x=-4589.49, y=64.00, z=-1035.61] died, message: 'Villager was burnt to a crisp whilst fighting Terrain32'
 [25Jan2025 05:26:39.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34912, l='ServerLevel[world]', x=-4561.95, y=64.00, z=-981.63] died, message: 'Villager was burnt to a crisp whilst fighting Terrain32'
 [25Jan2025 05:29:32.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 05:33:46.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 05:34:38.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38999, l='ServerLevel[world]', x=-4524.70, y=65.00, z=-1031.97] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:40.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39003, l='ServerLevel[world]', x=-4527.70, y=64.67, z=-1032.43] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:42.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38998, l='ServerLevel[world]', x=-4527.68, y=64.60, z=-1030.41] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:43.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39001, l='ServerLevel[world]', x=-4527.58, y=64.67, z=-1028.37] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:45.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38996, l='ServerLevel[world]', x=-4527.58, y=64.67, z=-1026.34] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:46.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39000, l='ServerLevel[world]', x=-4527.69, y=64.60, z=-1024.38] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:48.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38990, l='ServerLevel[world]', x=-4527.54, y=64.60, z=-1022.32] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:51.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38989, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1022.46] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:52.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39004, l='ServerLevel[world]', x=-4519.31, y=64.67, z=-1024.69] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:54.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39007, l='ServerLevel[world]', x=-4519.31, y=64.67, z=-1026.69] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:55.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39006, l='ServerLevel[world]', x=-4519.42, y=64.67, z=-1028.57] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:57.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38997, l='ServerLevel[world]', x=-4519.33, y=64.67, z=-1030.70] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:34:59.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39002, l='ServerLevel[world]', x=-4519.32, y=64.56, z=-1032.68] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:01.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39005, l='ServerLevel[world]', x=-4520.70, y=64.56, z=-1034.46] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:14.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39014, l='ServerLevel[world]', x=-4527.41, y=64.56, z=-1046.68] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:15.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39010, l='ServerLevel[world]', x=-4527.70, y=64.60, z=-1048.70] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:17.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39013, l='ServerLevel[world]', x=-4527.55, y=64.56, z=-1050.58] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:19.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39011, l='ServerLevel[world]', x=-4527.70, y=64.60, z=-1052.70] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:21.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39012, l='ServerLevel[world]', x=-4519.32, y=64.58, z=-1050.34] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:22.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39016, l='ServerLevel[world]', x=-4519.56, y=64.58, z=-1048.33] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 05:35:28.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 05:35:42.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/39015, l='ServerLevel[world]', x=-4521.83, y=65.00, z=-1041.99] died, message: 'Librarian was slain by Terrain32'
+[25Jan2025 05:36:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 05:37:41.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 05:37:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
+[25Jan2025 05:38:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 05:38:44.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 05:39:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 05:39:43.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
