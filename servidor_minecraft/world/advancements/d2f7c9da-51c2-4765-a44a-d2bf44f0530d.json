@@ -7827,5 +7827,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-01-25 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-01-25 17:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-01-25 17:45:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
