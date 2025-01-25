@@ -141,3 +141,7 @@
 [25Jan2025 02:02:27.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [25Jan2025 02:05:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Bring Home the Beacon]
 [25Jan2025 02:08:52.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[25Jan2025 02:24:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has completed the challenge [Return to Sender]
+[25Jan2025 02:26:16.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Jan2025 02:27:16.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[25Jan2025 02:27:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]

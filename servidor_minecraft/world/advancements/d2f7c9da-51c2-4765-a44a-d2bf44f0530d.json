@@ -1004,6 +1004,7 @@
       "minecraft:blaze": "2025-01-21 05:25:15 +0000",
       "minecraft:skeleton": "2025-01-21 00:31:11 +0000",
       "minecraft:ghast": "2025-01-21 20:27:52 +0000",
+      "minecraft:hoglin": "2025-01-25 02:23:19 +0000",
       "minecraft:guardian": "2025-01-24 00:05:29 +0000",
       "minecraft:magma_cube": "2025-01-21 04:44:49 +0000",
       "minecraft:spider": "2025-01-21 01:16:45 +0000",
@@ -7348,6 +7349,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-01-25 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-25 02:24:45 +0000"
     },
     "done": true
   },
