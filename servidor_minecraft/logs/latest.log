@@ -161,3 +161,7 @@
 [25Jan2025 04:07:08.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the time to 13000]
 [25Jan2025 04:07:49.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [25Jan2025 04:08:06.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32117, l='ServerLevel[world]', x=-4524.54, y=65.00, z=-1021.59] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 04:09:49.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32661, l='ServerLevel[world]', x=-4528.02, y=65.00, z=-1040.04] died, message: 'Villager was slain by Terrain32'
+[25Jan2025 04:10:09.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[25Jan2025 04:12:00.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[25Jan2025 04:12:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
