@@ -168,3 +168,16 @@ Things may not work well.
 [31Jan2025 22:15:33.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5773ms or 115 ticks behind
 [31Jan2025 22:16:09.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! -7.090433642355492,-9.91841834094948,13.438899787153787
 [31Jan2025 22:16:46.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [The Silence of the Forest]
+[31Jan2025 22:19:13.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[31Jan2025 22:19:43.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the weather to clear]
+[31Jan2025 22:20:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [The Silence of the Forest]
+[31Jan2025 22:21:17.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 7.722061226682854,-5.534454222232341,15.573754994191404
+[31Jan2025 22:22:13.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [With Fire It Writes]
+[31Jan2025 22:22:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[31Jan2025 22:22:42.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [I Can See Forever]
+[31Jan2025 22:23:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Time To Even The Scales]
+[31Jan2025 22:23:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Time To Even The Scales]
+[31Jan2025 22:23:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [I Can See Forever]
+[31Jan2025 22:24:27.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! -12.836362203626777,-2.1227070424507195,12.36026900795514
+[31Jan2025 22:25:02.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 22:25:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the weather to clear]
