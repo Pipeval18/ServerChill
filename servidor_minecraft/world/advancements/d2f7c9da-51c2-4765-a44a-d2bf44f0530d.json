@@ -8564,7 +8564,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "snow_queen": "2025-01-31 23:00:44 +0000"
+      "snow_queen": "2025-01-31 23:00:44 +0000",
+      "ur_ghast": "2025-01-31 23:21:43 +0000"
     },
     "done": false
   },
@@ -8651,9 +8652,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-01-31 23:10:13 +0000"
+      "previous_progression": "2025-01-31 23:10:13 +0000",
+      "was_in_fight": "2025-01-31 23:21:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/firefly_particle_spawner": {
     "criteria": {
@@ -8793,6 +8795,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_planks": {
     "criteria": {
       "has_item": "2025-01-31 22:15:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-01-31 23:19:15 +0000"
     },
     "done": true
   },

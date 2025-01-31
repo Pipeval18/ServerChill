@@ -219,3 +219,14 @@ Things may not work well.
 [31Jan2025 23:17:34.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
 [31Jan2025 23:17:46.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
 [31Jan2025 23:19:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Something Strange in Towerwood]
+[31Jan2025 23:20:25.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Something Strange in Towerwood]
+[31Jan2025 23:20:37.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was scalded by fiery tears
+[31Jan2025 23:21:02.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:21:43.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Tears of Fire]
+[31Jan2025 23:21:43.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Tears of Fire]
+[31Jan2025 23:22:12.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! -13.219734969323326,-2.919401247497987,-12.382337001850829
+[31Jan2025 23:22:46.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved wrongly!
+[31Jan2025 23:24:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:26:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:28:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Mighty Stroganoff]
+[31Jan2025 23:28:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Mighty Stroganoff]
