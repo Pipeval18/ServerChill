@@ -8539,9 +8539,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-01-31 22:33:16 +0000"
+      "kill_lich": "2025-01-31 22:33:16 +0000",
+      "trophy_pedestal": "2025-01-31 23:07:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
@@ -8560,6 +8561,12 @@
       "magic_map": "2025-01-31 22:22:42 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-01-31 23:00:44 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -8582,6 +8589,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_sapling": "2025-01-31 22:15:59 +0000",
+      "dark_log": "2025-01-31 23:06:38 +0000",
       "canopy_log": "2025-01-31 22:15:54 +0000"
     },
     "done": false
@@ -8618,9 +8626,16 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-01-31 22:45:30 +0000"
+      "previous_progression": "2025-01-31 22:45:30 +0000",
+      "was_in_fight": "2025-01-31 23:00:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:00:47 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/decorations/firefly_particle_spawner": {
     "criteria": {
@@ -8659,6 +8674,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:07:25 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-01-31 22:20:18 +0000"
@@ -8689,6 +8710,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-01-31 23:06:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2025-01-31 22:22:13 +0000"
@@ -8711,6 +8738,12 @@
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2025-01-31 22:23:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-01-31 23:06:38 +0000"
     },
     "done": true
   },
@@ -8789,6 +8822,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-31 22:53:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-01-31 23:04:31 +0000"
     },
     "done": true
   },

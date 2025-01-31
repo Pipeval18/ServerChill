@@ -1941,3 +1941,24 @@ Things may not work well.
 [31Jan2025 22:57:50.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [31Jan2025 22:58:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
 [31Jan2025 22:59:10.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Spectator Mode]
+[31Jan2025 22:59:20.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[31Jan2025 22:59:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[31Jan2025 22:59:25.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:00:44.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Clear Skies]
+[31Jan2025 23:00:44.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Clear Skies]
+[31Jan2025 23:01:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop fell from a high place
+[31Jan2025 23:01:39.307] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[31Jan2025 23:02:50.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[31Jan2025 23:02:50.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[31Jan2025 23:02:58.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:03:16.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! -17.019361964208656,-1.756967525547111,-7.3342692236356015
+[31Jan2025 23:04:31.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Bug Stomper]
+[31Jan2025 23:05:03.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:05:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Bug Stomper]
+[31Jan2025 23:06:20.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[31Jan2025 23:06:38.565] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-37537, y=20, z=-9365}) reached max scan size of 500
+[31Jan2025 23:07:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Trophied Champion]
+[31Jan2025 23:07:25.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Trophied Champion]
+[31Jan2025 23:07:50.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[31Jan2025 23:07:50.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[31Jan2025 23:08:27.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
