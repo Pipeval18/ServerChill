@@ -153,3 +153,6 @@ Things may not work well.
 [31Jan2025 21:49:18.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 3000 experience points to Juanitoop]
 [31Jan2025 21:49:32.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 3000 experience points to Terrain32]
 [31Jan2025 21:49:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has completed the challenge [Cover Me in Debris]
+[31Jan2025 21:56:56.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[31Jan2025 22:01:24.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[31Jan2025 22:02:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
