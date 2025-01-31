@@ -8537,6 +8537,12 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-01-31 23:44:55 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2025-01-31 22:33:16 +0000",
@@ -8556,6 +8562,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:39:14 +0000",
+      "lamp": "2025-01-31 23:44:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2025-01-31 22:22:42 +0000"
@@ -8564,16 +8577,18 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2025-01-31 23:39:14 +0000",
       "snow_queen": "2025-01-31 23:00:44 +0000",
       "ur_ghast": "2025-01-31 23:21:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-01-31 23:28:25 +0000",
       "kill_lich": "2025-01-31 22:33:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
     "criteria": {
@@ -8601,6 +8616,13 @@
     },
     "done": false
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-01-31 23:28:26 +0000",
+      "was_in_fight": "2025-01-31 23:39:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
     "criteria": {
       "has_item": "2025-01-31 22:22:50 +0000"
@@ -8624,6 +8646,12 @@
       "has_item": "2025-01-31 22:45:03 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-01-31 23:28:25 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
     "criteria": {
@@ -8688,6 +8716,13 @@
     },
     "done": true
   },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-01-31 23:44:55 +0000",
+      "giant": "2025-01-31 23:40:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
       "has_item": "2025-01-31 22:22:50 +0000"
@@ -8698,6 +8733,12 @@
     "criteria": {
       "previous_progression": "2025-01-31 23:07:25 +0000",
       "was_in_fight": "2025-01-31 23:10:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-01-31 23:28:17 +0000"
     },
     "done": true
   },
@@ -8825,6 +8866,13 @@
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-01-31 23:09:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:44:59 +0000",
+      "plateau": "2025-01-31 23:45:58 +0000"
     },
     "done": true
   },
