@@ -4692,6 +4692,12 @@
     },
     "done": false
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-01-31 22:44:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "canopy_chest": "2025-01-31 22:35:29 +0000"
@@ -4703,6 +4709,18 @@
       "has_berries": "2025-01-31 22:20:03 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-01-31 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-01-31 22:45:30 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/netherite_armor": {
     "criteria": {
@@ -4717,15 +4735,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-01-31 22:44:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-31 22:33:27 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-31 22:40:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 22:45:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-01-31 22:20:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2025-01-31 22:42:48 +0000"
     },
     "done": true
   },
@@ -4737,9 +4779,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-01-31 22:33:16 +0000"
+      "previous_progression": "2025-01-31 22:33:16 +0000",
+      "yeti": "2025-01-31 22:45:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -4750,6 +4793,18 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-01-31 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-01-31 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-31 22:44:26 +0000"
     },
     "done": true
   },
