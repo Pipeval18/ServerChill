@@ -1902,3 +1902,20 @@ Things may not work well.
 [31Jan2025 22:25:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set the weather to clear]
 [31Jan2025 22:27:50.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [31Jan2025 22:27:50.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[31Jan2025 22:32:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 succumbed to the Lich's explosive magic
+[31Jan2025 22:32:18.662] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[31Jan2025 22:32:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[31Jan2025 22:32:22.503] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1014}
+[31Jan2025 22:32:22.503] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1013}
+[31Jan2025 22:32:26.412] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[31Jan2025 22:32:26.412] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/gui/CorpseInventoryContainer$2 (target of net/minecraft/world/inventory/Slot)
+[31Jan2025 22:32:26.413] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[31Jan2025 22:32:50.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[31Jan2025 22:32:50.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[31Jan2025 22:33:16.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Bring Out Your Dead]
+[31Jan2025 22:33:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Bring Out Your Dead]
+[31Jan2025 22:35:28.826] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[31Jan2025 22:35:28.826] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[31Jan2025 22:37:50.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[31Jan2025 22:37:50.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[31Jan2025 22:37:58.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
