@@ -4815,6 +4815,18 @@
     },
     "done": true
   },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:10:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-01-31 21:49:40 +0000"
@@ -4846,17 +4858,30 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-01-31 23:14:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2025-01-31 23:10:13 +0000",
       "previous_progression": "2025-01-31 23:07:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/freezing/blue_ice": {
     "criteria": {
@@ -4912,6 +4937,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:10:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
@@ -4955,9 +4986,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-01-31 23:14:33 +0000"
     },
     "done": true
   },

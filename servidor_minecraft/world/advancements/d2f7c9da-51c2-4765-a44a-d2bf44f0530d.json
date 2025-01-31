@@ -8586,6 +8586,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-01-31 23:09:03 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "canopy_sapling": "2025-01-31 22:15:59 +0000",
@@ -8624,6 +8630,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-01-31 23:07:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-01-31 22:45:30 +0000",
@@ -8636,6 +8648,12 @@
       "has_trophy": "2025-01-31 23:00:47 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:10:13 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/decorations/firefly_particle_spawner": {
     "criteria": {
@@ -8676,9 +8694,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2025-01-31 23:07:25 +0000"
+      "previous_progression": "2025-01-31 23:07:25 +0000",
+      "was_in_fight": "2025-01-31 23:10:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
@@ -8783,9 +8802,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-01-31 23:14:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
     "criteria": {
       "has_item": "2025-01-31 22:47:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-01-31 23:09:03 +0000"
     },
     "done": true
   },
@@ -8828,6 +8859,12 @@
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2025-01-31 23:04:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-01-31 23:07:59 +0000"
     },
     "done": true
   },
