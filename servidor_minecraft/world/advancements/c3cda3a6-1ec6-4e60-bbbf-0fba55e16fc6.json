@@ -4680,6 +4680,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
   "twilightforest:beanstalk": {
     "criteria": {
       "beans": "2025-01-31 23:45:00 +0000"
@@ -4753,6 +4759,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-01-31 23:31:22 +0000"
@@ -4778,6 +4790,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-01-31 23:39:14 +0000",
@@ -4792,15 +4810,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:17:53 +0000"
     },
     "done": true
   },
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-02-01 00:28:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:enter_blinding_dungeon": {
     "criteria": {
       "entered_everbright_blinding_dungeon": "2025-02-01 00:25:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_chest": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:32 +0000"
     },
     "done": true
   },
@@ -4817,6 +4859,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-01 00:09:03 +0000"
@@ -4826,6 +4874,12 @@
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
       "has_item": "2025-01-31 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
     },
     "done": true
   },
@@ -4850,6 +4904,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -4881,9 +4941,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-31 22:51:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
     },
     "done": true
   },
@@ -4942,9 +5014,21 @@
     },
     "done": false
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:05 +0000"
     },
     "done": true
   },
@@ -4960,9 +5044,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
     "criteria": {
       "has_item": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -4978,9 +5074,21 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/enter": {
     "criteria": {
       "enter_everbright": "2025-02-01 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:36 +0000"
     },
     "done": true
   },
@@ -5003,9 +5111,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_sign": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
       "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_button": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
     },
     "done": true
   },
@@ -5021,9 +5141,45 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
     },
     "done": true
   },
@@ -5057,9 +5213,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -5105,6 +5279,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/blinding_stairs": {
     "criteria": {
       "has_item": "2025-02-01 00:28:21 +0000"
@@ -5139,6 +5319,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
     },
     "done": true
   },
@@ -5179,15 +5365,45 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2025-02-01 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-01 00:09:03 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
     "criteria": {
       "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -5251,6 +5467,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-31 23:08:17 +0000"
@@ -5267,6 +5489,24 @@
   "twilightforest:recipes/misc/maze_map": {
     "criteria": {
       "has_item": "2025-01-31 23:28:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_ladder": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
     },
     "done": true
   },
@@ -5288,9 +5528,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-31 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:23 +0000"
     },
     "done": true
   },
@@ -5303,6 +5555,24 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
     },
     "done": true
   },
@@ -5360,6 +5630,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-01-31 23:31:22 +0000"
@@ -5396,6 +5672,30 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_slab": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/bluebright_stick": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-01-31 23:31:22 +0000"
@@ -5418,6 +5718,12 @@
   "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
     "criteria": {
       "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -5457,15 +5763,51 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_stairs": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2025-01-31 23:20:25 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
     },
     "done": true
   },
@@ -5511,6 +5853,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-01-31 23:21:52 +0000"
@@ -5553,9 +5901,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
     },
     "done": true
   },
@@ -5569,6 +5941,12 @@
     "criteria": {
       "previous_progression": "2025-01-31 23:46:18 +0000",
       "plateau": "2025-01-31 23:46:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
     },
     "done": true
   },
@@ -5602,6 +5980,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-31 23:04:59 +0000"
@@ -5617,6 +6001,12 @@
   "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
       "has_material": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -5638,11 +6028,23 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_door": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:thinking_with_portals": {
     "criteria": {
       "enter_everbright": "2025-02-01 00:21:52 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/redstone/carminite_reactor": {
     "criteria": {
@@ -5656,9 +6058,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
     },
     "done": true
   },

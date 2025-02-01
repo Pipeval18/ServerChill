@@ -2155,3 +2155,16 @@ Things may not work well.
 [01Feb2025 00:31:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
 [01Feb2025 00:32:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [A Bright Future!]
 [01Feb2025 00:32:14.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [A Bright Future!]
+[01Feb2025 00:33:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Light Up The World!]
+[01Feb2025 00:33:34.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[01Feb2025 00:33:34.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[01Feb2025 00:34:06.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [A Swift Upgrade]
+[01Feb2025 00:34:41.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [A Swift Upgrade]
+[01Feb2025 00:35:18.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [A Little Hot Rod Red]
+[01Feb2025 00:37:07.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[01Feb2025 00:37:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Quite The Boost]
+[01Feb2025 00:38:34.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[01Feb2025 00:38:34.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[01Feb2025 00:41:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Quite The Boost]
+[01Feb2025 00:41:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[01Feb2025 00:42:56.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Now We're Cooking With... Shrooms?]
