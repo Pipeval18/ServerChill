@@ -1006,6 +1006,7 @@
       "minecraft:ghast": "2025-01-21 20:27:52 +0000",
       "minecraft:hoglin": "2025-01-25 02:23:19 +0000",
       "minecraft:guardian": "2025-01-24 00:05:29 +0000",
+      "minecraft:vindicator": "2025-02-01 00:28:25 +0000",
       "minecraft:magma_cube": "2025-01-21 04:44:49 +0000",
       "minecraft:spider": "2025-01-21 01:16:45 +0000",
       "minecraft:piglin_brute": "2025-01-21 04:44:45 +0000",
@@ -8550,6 +8551,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:24:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "raven": "2025-01-31 22:20:49 +0000"
@@ -8586,6 +8593,12 @@
       "hydra": "2025-01-31 23:39:14 +0000",
       "snow_queen": "2025-01-31 23:00:44 +0000",
       "ur_ghast": "2025-01-31 23:21:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everbright_blinding_dungeon": "2025-02-01 00:25:48 +0000"
     },
     "done": true
   },
@@ -8653,6 +8666,12 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-02-01 00:21:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_leggings": {
     "criteria": {
       "has_item": "2025-01-31 22:45:03 +0000"
@@ -8680,6 +8699,12 @@
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-01-31 23:07:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-02-01 00:21:54 +0000"
     },
     "done": true
   },
@@ -9019,6 +9044,12 @@
       "has_item": "2025-01-31 22:47:55 +0000"
     },
     "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-02-01 00:21:54 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
