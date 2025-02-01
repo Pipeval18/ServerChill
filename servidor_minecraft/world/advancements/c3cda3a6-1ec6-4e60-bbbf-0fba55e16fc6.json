@@ -4674,6 +4674,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:beanstalk": {
     "criteria": {
       "beans": "2025-01-31 23:45:00 +0000"
@@ -4683,6 +4689,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-01 00:07:04 +0000"
     },
     "done": true
   },
@@ -4787,6 +4799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/packed_ice": {
     "criteria": {
       "has_ingredient": "2025-01-31 22:54:48 +0000"
@@ -4845,6 +4863,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2025-01-31 23:31:22 +0000"
@@ -4859,13 +4883,26 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "meef_stroganoff": "2025-01-31 23:28:14 +0000"
+      "meef_stroganoff": "2025-01-31 23:28:14 +0000",
+      "hydra_chop": "2025-01-31 23:58:36 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
+    "criteria": {
+      "has_item": "2025-01-31 23:48:38 +0000"
     },
     "done": true
   },
@@ -4912,6 +4949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-01-31 23:31:22 +0000"
@@ -4942,6 +4985,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-01 00:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-01-31 23:00:50 +0000"
@@ -4954,9 +5009,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
     },
     "done": true
   },
@@ -5022,6 +5089,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
       "has_item": "2025-01-31 22:44:26 +0000"
@@ -5043,6 +5122,12 @@
   "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
       "has_item": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
+    "criteria": {
+      "has_item": "2025-01-31 23:48:38 +0000"
     },
     "done": true
   },
@@ -5092,6 +5177,12 @@
   "refurbished_furniture:recipes/freezing/blue_ice": {
     "criteria": {
       "has_ingredient": "2025-01-31 23:00:50 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
     },
     "done": true
   },
@@ -5161,6 +5252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
     "criteria": {
       "has_item": "2025-01-31 23:21:52 +0000"
@@ -5182,6 +5279,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-01-31 23:48:38 +0000"
     },
     "done": true
   },
@@ -5207,6 +5310,18 @@
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-01-31 22:23:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/quest_ram_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-01 00:07:04 +0000"
     },
     "done": true
   },
@@ -5282,6 +5397,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-01-31 23:21:52 +0000"
@@ -5300,9 +5421,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
     },
     "done": true
   },
@@ -5340,6 +5473,12 @@
   "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-01-31 23:04:59 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
     },
     "done": true
   },
