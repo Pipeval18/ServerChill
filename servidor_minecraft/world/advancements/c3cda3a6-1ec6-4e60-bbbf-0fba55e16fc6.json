@@ -6160,5 +6160,131 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-12 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/diopside_block": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-12 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
