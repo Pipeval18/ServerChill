@@ -1687,3 +1687,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Feb2025 21:29:33.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [12Feb2025 21:33:36.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [12Feb2025 21:33:36.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 21:38:36.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 21:38:36.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 21:43:36.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 21:43:36.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 21:48:36.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 21:48:36.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 21:53:36.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 21:53:36.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 21:54:27.529] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[12Feb2025 21:54:27.530] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
