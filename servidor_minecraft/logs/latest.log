@@ -295,3 +295,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Feb2025 05:41:51.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
 [12Feb2025 05:41:51.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
 [12Feb2025 05:41:51.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[12Feb2025 05:42:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[12Feb2025 05:43:06.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[12Feb2025 06:01:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[12Feb2025 06:01:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]

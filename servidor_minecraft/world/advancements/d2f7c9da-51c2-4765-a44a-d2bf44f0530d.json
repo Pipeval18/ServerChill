@@ -9448,9 +9448,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/make_a_sign_glow": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "make_a_sign_glow": "2025-02-12 04:26:32 +0000"
+      "axolotl_bucket": "2025-02-12 04:17:54 +0000"
     },
     "done": true
   },
@@ -9466,15 +9466,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-02-12 04:17:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-12 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-02-12 04:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-02-12 05:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-02-12 05:46:17 +0000"
     },
     "done": true
   },
