@@ -1927,3 +1927,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Feb2025 04:41:00.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> una casita para los animales
 [12Feb2025 04:41:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> es enserio? jajaj
 [12Feb2025 04:41:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> shi
+[12Feb2025 04:41:31.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 04:41:31.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 04:41:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> iba a hacer la granja de slimes pero me di cienta que eran 4 chunks y no tenemos piedra de magma JAJAJA
+[12Feb2025 04:45:31.051] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4604, y=65, z=-961}) doesn't have enough leaves around top most log
+[12Feb2025 04:45:32.050] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4604, y=64, z=-961}) doesn't have enough leaves around top most log
+[12Feb2025 04:45:33.241] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4604, y=65, z=-957}) doesn't have enough leaves around top most log
+[12Feb2025 04:45:34.400] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4604, y=64, z=-957}) doesn't have enough leaves around top most log
+[12Feb2025 04:46:31.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 04:46:31.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 04:48:59.586] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4606, y=68, z=-968}) doesn't have enough leaves around top most log
+[12Feb2025 04:51:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> zzz

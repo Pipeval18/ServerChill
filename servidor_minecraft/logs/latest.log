@@ -217,3 +217,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Feb2025 04:41:00.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> una casita para los animales
 [12Feb2025 04:41:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> es enserio? jajaj
 [12Feb2025 04:41:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> shi
+[12Feb2025 04:41:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> iba a hacer la granja de slimes pero me di cienta que eran 4 chunks y no tenemos piedra de magma JAJAJA
+[12Feb2025 04:51:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> zzz
