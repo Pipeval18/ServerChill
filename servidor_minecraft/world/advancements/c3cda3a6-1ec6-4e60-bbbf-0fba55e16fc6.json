@@ -4668,51 +4668,58 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
+      "netherite_armor": "2025-01-31 21:49:40 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_material": "2025-02-01 00:07:04 +0000"
+      "has_oxeye_daisy": "2025-01-31 22:12:04 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/tools/ventium_shears": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "has_item": "2025-02-01 00:35:18 +0000"
+      "kobold": "2025-01-31 22:16:46 +0000"
     },
     "done": true
   },
-  "twilightforest:beanstalk": {
+  "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
-      "beans": "2025-01-31 23:45:00 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/building_blocks/blinding_slab": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
+      "has_berries": "2025-01-31 22:20:03 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+  "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
+      "has_item": "2025-01-31 22:20:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "twilightforest:progress_lich": {
     "criteria": {
-      "has_emerald_block": "2025-02-01 00:07:04 +0000"
+      "kill_lich": "2025-01-31 22:33:16 +0000",
+      "kill_naga": "2025-01-31 22:23:14 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/vanishing_block": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "has_the_recipe": "2025-01-31 23:18:18 +0000"
+      "naga": "2025-01-31 22:23:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-01-31 22:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-31 22:25:34 +0000"
     },
     "done": true
   },
@@ -4723,129 +4730,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/food/comet_berry_pie_with_ventium": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:24:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "kobold": "2025-01-31 22:16:46 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/starlit_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-01-31 23:21:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_troll": {
-    "criteria": {
-      "previous_progression": "2025-01-31 23:39:14 +0000",
-      "lamp": "2025-01-31 23:46:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-01-31 22:23:39 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/bluebright_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_merge": {
-    "criteria": {
-      "hydra": "2025-01-31 23:39:14 +0000",
-      "snow_queen": "2025-01-31 23:00:44 +0000",
-      "ur_ghast": "2025-01-31 23:21:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/pyrope_block": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
-    "criteria": {
-      "click_keystone": "2025-02-01 00:28:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:enter_blinding_dungeon": {
-    "criteria": {
-      "entered_everbright_blinding_dungeon": "2025-02-01 00:25:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_chest": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:32 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
       "meef": "2025-01-31 23:28:14 +0000",
@@ -4853,63 +4737,16 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "has_item": "2025-01-31 23:18:09 +0000"
+      "previous_progression": "2025-01-31 22:33:16 +0000",
+      "yeti": "2025-01-31 22:45:30 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+  "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
-      "has_resource": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
-    "criteria": {
-      "has_item": "2025-01-31 22:44:26 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/carminite": {
-    "criteria": {
-      "has_item": "2025-01-31 23:18:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/packed_ice": {
-    "criteria": {
-      "has_ingredient": "2025-01-31 22:54:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/turquoise_lever": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
+      "has_trophy": "2025-01-31 22:33:27 +0000"
     },
     "done": true
   },
@@ -4922,681 +4759,9 @@
     },
     "done": false
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_hydra": {
-    "criteria": {
-      "kill_hydra": "2025-01-31 23:39:14 +0000",
-      "stroganoff": "2025-01-31 23:28:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2025-01-31 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-31 22:51:02 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/comet_berry_pie_with_iron": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
-    "criteria": {
-      "has_castle_brick": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:root": {
-    "criteria": {
-      "enter_everbright": "2025-02-01 00:21:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
-    "criteria": {
-      "has_item": "2025-01-31 22:44:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "meef_stroganoff": "2025-01-31 23:28:14 +0000",
-      "hydra_chop": "2025-01-31 23:58:36 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:get_moonstone_shard": {
-    "criteria": {
-      "obtain_moonstone_shard": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/maple_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
-    "criteria": {
-      "has_item": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-01-31 23:07:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_ventium": {
-    "criteria": {
-      "obtain_material": "2025-02-01 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/enter": {
-    "criteria": {
-      "enter_everbright": "2025-02-01 00:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
-    "criteria": {
-      "has_item": "2025-02-01 00:35:36 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2025-01-31 22:45:30 +0000",
-      "queen": "2025-01-31 23:00:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_sign": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
-    "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/bluebright_button": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/hydra_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-01-31 23:39:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/pyrope_helmet": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_pyrope": {
-    "criteria": {
-      "obtain_material": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/pyrope_boots": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-01-31 22:54:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_planks": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-02-01 00:05:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-01-31 23:00:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/carminite_builder": {
-    "criteria": {
-      "has_item": "2025-01-31 23:18:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
-    "criteria": {
-      "has_castle_brick": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/frostbright_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stairs": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_ur_ghast": {
-    "criteria": {
-      "previous_progression": "2025-01-31 23:10:13 +0000",
-      "ghast": "2025-01-31 23:21:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-31 23:08:17 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/lunar_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-01-31 21:49:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_lich": "2025-01-31 22:33:16 +0000",
-      "kill_naga": "2025-01-31 22:23:14 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_wood": {
-    "criteria": {
-      "has_bluebright_log": "2025-02-01 00:32:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/anvil_compat": {
-    "criteria": {
-      "has_item": "2025-02-01 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
-    "criteria": {
-      "has_castle_brick": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2025-01-31 22:44:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-01-31 22:33:27 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-31 22:40:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
-    "criteria": {
-      "has_item": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
-    "criteria": {
-      "has_item": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
-    "criteria": {
-      "has_item": "2025-01-31 23:14:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:giants": {
-    "criteria": {
-      "pickaxe": "2025-01-31 23:45:00 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
-    "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-01-31 23:08:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "all_knights": "2025-01-31 23:10:13 +0000",
-      "previous_progression": "2025-01-31 23:07:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/maze_map": {
-    "criteria": {
-      "has_item": "2025-01-31 23:28:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_ladder": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:32 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/blue_ice": {
-    "criteria": {
-      "has_ingredient": "2025-01-31 23:00:50 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/pyrope_leggings": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-01-31 22:45:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-01-31 22:20:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:34:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_fence": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_bucket": {
-    "criteria": {
-      "has_item": "2025-02-01 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
-    "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
-    "criteria": {
-      "has_item": "2025-01-31 22:51:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
     },
     "done": true
   },
@@ -5606,148 +4771,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-31 22:12:04 +0000"
+      "has_item": "2025-01-31 22:44:26 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
     "criteria": {
-      "has_trophy": "2025-01-31 23:10:23 +0000"
+      "has_item": "2025-01-31 22:44:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
-      "has_lapis_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
-    "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/castle_brick_stairs": {
-    "criteria": {
-      "has_item": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_slab": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/moonstone_from_shard": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/bluebright_stick": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/dusk_spear": {
-    "criteria": {
-      "has_item": "2025-02-01 00:33:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2025-01-31 22:33:16 +0000",
-      "yeti": "2025-01-31 22:45:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-01-31 22:23:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
-    "criteria": {
-      "has_castle_brick": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/furnace_compat": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/quest_ram_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-01-31 23:28:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-31 22:25:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
+      "has_item": "2025-01-31 22:44:26 +0000"
     },
     "done": true
   },
@@ -5763,51 +4801,130 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "has_resource": "2025-02-01 00:34:06 +0000"
+      "previous_progression": "2025-01-31 22:45:30 +0000",
+      "queen": "2025-01-31 23:00:44 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_stairs": {
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
+      "has_trophy": "2025-01-31 22:45:34 +0000"
     },
     "done": true
   },
-  "twilightforest:ghast_trap": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "activate_ghast_trap": "2025-01-31 23:20:25 +0000"
+      "has_snowball": "2025-01-31 22:51:02 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
+      "has_snowball": "2025-01-31 22:51:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
     "criteria": {
-      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+      "has_item": "2025-01-31 22:51:28 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
     "criteria": {
-      "has_resource": "2025-02-01 00:32:06 +0000"
+      "has_item": "2025-01-31 22:51:33 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
-      "has_resource": "2025-02-01 00:34:06 +0000"
+      "has_stick": "2025-01-31 22:51:34 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/tool_box": {
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
-      "has_item": "2025-02-01 00:35:18 +0000"
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-01-31 22:51:34 +0000"
     },
     "done": true
   },
@@ -5817,196 +4934,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_table": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
-    "criteria": {
-      "has_oak_planks": "2025-01-31 23:31:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
-    "criteria": {
-      "has_castle_brick": "2025-01-31 23:48:38 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
-    "criteria": {
-      "has_item": "2025-01-31 23:21:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
-    "criteria": {
-      "has_item": "2025-01-31 23:14:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:keys": {
-    "criteria": {
-      "obtain_key": "2025-02-01 00:28:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
-    "criteria": {
-      "has_item": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/ventium_block": {
-    "criteria": {
-      "has_item": "2025-02-01 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progression_end": {
-    "criteria": {
-      "previous_progression": "2025-01-31 23:46:18 +0000",
-      "plateau": "2025-01-31 23:46:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-01-31 22:54:35 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
-    "criteria": {
-      "has_planks": "2025-01-31 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
-    "criteria": {
-      "has_item": "2025-02-01 00:34:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-01-31 23:04:59 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_wall": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-02-01 00:07:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:50 +0000"
     },
     "done": true
   },
@@ -6022,57 +4952,53 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-02-01 00:28:21 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_door": {
-    "criteria": {
-      "has_item": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:thinking_with_portals": {
-    "criteria": {
-      "enter_everbright": "2025-02-01 00:21:52 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-02-01 00:35:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/carminite_reactor": {
-    "criteria": {
-      "has_item": "2025-01-31 23:18:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-01-31 22:51:02 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
-    "criteria": {
-      "has_resource": "2025-02-01 00:32:06 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-31 22:51:34 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/pyrope_chestplate": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "has_item": "2025-02-01 00:34:06 +0000"
+      "has_item": "2025-01-31 22:54:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-31 22:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-31 22:54:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-01-31 23:39:14 +0000",
+      "snow_queen": "2025-01-31 23:00:44 +0000",
+      "ur_ghast": "2025-01-31 23:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-31 23:00:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-31 23:00:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:04:59 +0000"
     },
     "done": true
   },
@@ -6082,9 +5008,1155 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+  "twilightforest:progress_knights": {
     "criteria": {
-      "has_item": "2025-01-31 22:51:33 +0000"
+      "all_knights": "2025-01-31 23:10:13 +0000",
+      "previous_progression": "2025-01-31 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-01-31 23:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-31 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:10:13 +0000",
+      "ghast": "2025-01-31 23:21:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:10:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-01-31 23:14:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-01-31 23:14:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2025-01-31 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-01-31 23:18:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-01-31 23:18:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-01-31 23:18:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/vanishing_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-31 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-01-31 23:18:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-01-31 23:20:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:21:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-01-31 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:28:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2025-01-31 23:39:14 +0000",
+      "stroganoff": "2025-01-31 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-01-31 23:28:14 +0000",
+      "hydra_chop": "2025-01-31 23:58:36 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-01-31 23:28:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-01-31 23:31:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:39:14 +0000",
+      "lamp": "2025-01-31 23:46:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-01-31 23:39:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-01-31 23:45:00 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-01-31 23:45:00 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-01-31 23:46:18 +0000",
+      "plateau": "2025-01-31 23:46:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/smelted_cracked_castle_brick": {
+    "criteria": {
+      "has_item": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_brick_pillar": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/mossy_castle_brick": {
+    "criteria": {
+      "has_item": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/bold_castle_pillar_from_tile": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/castleblock/thick_castle_brick": {
+    "criteria": {
+      "has_castle_brick": "2025-01-31 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-01 00:05:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/quest_ram_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-01 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-01 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-02-01 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-02-01 00:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-02-01 00:21:52 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:24:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everbright_blinding_dungeon": "2025-02-01 00:25:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-02-01 00:28:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/comet_berry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/comet_berry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:28:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-02-01 00:28:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2025-02-01 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_sign": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_button": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_slab": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/bluebright_stick": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_stairs": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_door": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_chest": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_ladder": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:32 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2025-02-01 00:32:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-02-01 00:33:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
+    "criteria": {
+      "has_item": "2025-02-01 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:35:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2025-02-01 00:41:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/craft_snowcap_oven": {
+    "criteria": {
+      "obtain_oven": "2025-02-01 00:42:56 +0000"
     },
     "done": true
   },
