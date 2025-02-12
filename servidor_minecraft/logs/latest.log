@@ -1,344 +1,146 @@
-[12Feb2025 03:49:18.757] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Feb2025 03:49:18.770] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[12Feb2025 03:49:22.534] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Feb2025 03:49:22.788] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerChill/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[12Feb2025 03:49:23.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[12Feb2025 03:49:23.679] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Feb2025 03:49:23.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Feb2025 03:49:23.683] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Feb2025 03:49:24.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[12Feb2025 03:49:29.501] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Feb2025 03:49:29.606] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Feb2025 03:49:30.145] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Feb2025 03:49:31.628] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[12Feb2025 03:49:31.632] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[12Feb2025 03:49:31.637] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[12Feb2025 03:49:31.639] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[12Feb2025 03:49:31.640] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[12Feb2025 03:49:31.642] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[12Feb2025 03:49:31.648] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[12Feb2025 03:49:31.656] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[12Feb2025 03:49:52.044] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[12Feb2025 03:49:54.799] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[12Feb2025 03:49:55.444] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[12Feb2025 03:49:57.206] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[12Feb2025 03:49:57.206] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[12Feb2025 03:49:57.290] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[12Feb2025 03:50:05.640] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[12Feb2025 03:50:05.656] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[12Feb2025 03:50:05.665] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[12Feb2025 03:50:05.671] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[12Feb2025 03:50:06.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[12Feb2025 03:50:06.851] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[12Feb2025 03:50:06.898] [main/INFO] [journeymap/]: Initializing Packet Registries
-[12Feb2025 03:50:07.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[12Feb2025 03:50:07.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[12Feb2025 03:50:07.109] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[12Feb2025 03:50:07.164] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[12Feb2025 03:50:07.259] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[12Feb2025 03:50:07.274] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[12Feb2025 03:50:07.294] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23130!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23130!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	... 6 more
-[12Feb2025 03:50:07.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[12Feb2025 03:50:07.329] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23130!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23130!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	... 6 more
-[12Feb2025 03:50:07.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Feb2025 03:50:07.336] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[12Feb2025 03:50:07.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[12Feb2025 03:50:07.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[12Feb2025 03:50:07.642] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[12Feb2025 03:50:07.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[12Feb2025 03:50:07.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[12Feb2025 03:50:08.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[12Feb2025 03:50:08.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[12Feb2025 03:50:08.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[12Feb2025 03:50:08.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[12Feb2025 03:50:08.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
-[12Feb2025 03:50:18.512] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Feb2025 03:50:25.264] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/assets/.mcassetsroot' uses unexpected schema
-[12Feb2025 03:50:25.266] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/data/.mcassetsroot' uses unexpected schema
-[12Feb2025 03:50:33.034] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[12Feb2025 03:50:33.186] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[12Feb2025 03:50:33.204] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[12Feb2025 03:50:33.204] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[12Feb2025 03:50:33.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[12Feb2025 03:50:33.211] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[12Feb2025 03:50:33.258] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[12Feb2025 03:50:33.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[12Feb2025 03:50:33.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
-[12Feb2025 03:50:33.783] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3061 advancements
-[12Feb2025 03:50:33.803] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[12Feb2025 03:50:33.804] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[12Feb2025 03:50:33.804] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[12Feb2025 03:50:33.806] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[12Feb2025 03:50:33.828] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[12Feb2025 03:50:33.832] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[12Feb2025 03:50:33.833] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[12Feb2025 03:50:33.834] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[12Feb2025 03:50:33.844] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[12Feb2025 03:50:38.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Feb2025 03:50:38.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Feb2025 03:50:38.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Feb2025 03:50:38.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Feb2025 03:50:38.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Feb2025 03:50:39.073] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Feb2025 03:50:39.458] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Feb2025 03:50:39.459] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Feb2025 03:50:39.463] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Feb2025 03:50:39.589] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[12Feb2025 03:50:39.631] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[12Feb2025 03:50:39.634] [Server thread/INFO] [Framework/]: Loading server configs...
-[12Feb2025 03:50:39.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Feb2025 03:50:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Feb2025 03:51:06.262] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.271] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.297] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.311] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.327] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.332] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.359] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.361] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.363] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.365] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.367] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.377] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.409] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.415] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:06.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:07.363] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:07.854] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:08.356] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:08.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:09.353] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:10.134] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Feb2025 03:51:10.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[12Feb2025 03:51:11.293] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20941 ms
-[12Feb2025 03:51:11.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.872s)! For help, type "help"
-[12Feb2025 03:51:11.954] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Feb2025 03:51:11.958] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[12Feb2025 03:51:14.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
-[12Feb2025 03:51:20.743] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
-[12Feb2025 03:51:25.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:57756] logged in with entity id 101 at (-4682.147446935571, 37.0, -24.914583317935467)
-[12Feb2025 03:51:25.294] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
-[12Feb2025 03:51:25.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
-[12Feb2025 03:51:25.322] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
-[12Feb2025 03:51:25.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
-[12Feb2025 03:51:25.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
-[12Feb2025 03:51:25.528] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
-[12Feb2025 03:51:25.533] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
-[12Feb2025 03:51:25.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
-[12Feb2025 03:51:38.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
-[12Feb2025 03:53:22.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[12Feb2025 03:56:48.483] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bc67ef6[id=<null>,name=Juanitoop,properties={},legacy=false] (/100.115.150.94:55456) lost connection: Disconnected
-[12Feb2025 03:56:55.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51ffba3c[id=<null>,name=Juanitoop,properties={},legacy=false] (/100.115.150.94:55469) lost connection: Disconnected
-[12Feb2025 04:06:24.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
-[12Feb2025 04:07:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 04:14:14.991] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
-[12Feb2025 04:14:19.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:55714] logged in with entity id 4944 at (-4679.107039647172, 37.0, -28.55696979612859)
-[12Feb2025 04:14:19.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
-[12Feb2025 04:14:19.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
-[12Feb2025 04:14:19.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
-[12Feb2025 04:14:19.048] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
-[12Feb2025 04:14:19.066] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
-[12Feb2025 04:14:19.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
-[12Feb2025 04:14:19.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
-[12Feb2025 04:14:19.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
-[12Feb2025 04:14:57.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[12Feb2025 04:17:54.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [The Cutest Predator]
-[12Feb2025 04:18:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Tough to Beat]
-[12Feb2025 04:20:10.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[12Feb2025 04:20:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> cualqueri cosa por acas
-[12Feb2025 04:20:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> si no me quieres hablar dimelo :(
-[12Feb2025 04:21:04.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> bueno, no quiero
-[12Feb2025 04:21:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> malparido JAJAJAJA
-[12Feb2025 04:21:14.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> es que hablas solo y no oigo las musica jajaja
-[12Feb2025 04:21:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ay pues dime que querias escuchar musica
-[12Feb2025 04:21:44.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> se supone que ibamos a chismear :(
-[12Feb2025 04:21:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> te dije callete ue nio oigo la mnusica
-[12Feb2025 04:21:52.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y te empoutas6te
-[12Feb2025 04:22:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJA OBVIAMENTE NO ME EMPUTE IDIOTA
-[12Feb2025 04:26:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Glow and Behold!]
-[12Feb2025 04:30:49.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> Donde esta el beacon?
-[12Feb2025 04:30:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> baecon?
-[12Feb2025 04:30:57.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> bueno eso
-[12Feb2025 04:31:00.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
-[12Feb2025 04:40:33.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4536, y=64, z=-843} BlockPos{x=-4537, y=64, z=-844}
-[12Feb2025 04:40:33.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4536, y=64, z=-843} BlockPos{x=-4537, y=64, z=-844}
-[12Feb2025 04:40:33.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4536, y=64, z=-843} BlockPos{x=-4537, y=64, z=-844}
-[12Feb2025 04:40:33.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4536, y=64, z=-843} BlockPos{x=-4537, y=64, z=-844}
-[12Feb2025 04:40:33.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4536, y=64, z=-843} BlockPos{x=-4537, y=64, z=-844}
-[12Feb2025 04:40:33.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4536, y=64, z=-843} BlockPos{x=-4537, y=64, z=-844}
-[12Feb2025 04:40:51.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> que estás haciendo
-[12Feb2025 04:41:00.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> una casita para los animales
-[12Feb2025 04:41:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> es enserio? jajaj
-[12Feb2025 04:41:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> shi
-[12Feb2025 04:41:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> iba a hacer la granja de slimes pero me di cienta que eran 4 chunks y no tenemos piedra de magma JAJAJA
-[12Feb2025 04:51:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> zzz
-[12Feb2025 04:51:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> confia en el proceso
-[12Feb2025 04:52:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> que a dormir bobo hpota
-[12Feb2025 04:52:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhh espera
-[12Feb2025 04:52:19.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> zzzzzz
-[12Feb2025 04:52:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhh en el jeugo JJAJAJAJA
-[12Feb2025 04:58:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no se como mas avanzar ayuda
-[12Feb2025 04:58:43.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> yo confio en el proceso
-[12Feb2025 04:58:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> yo no
-[12Feb2025 04:58:48.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ayuda
-[12Feb2025 05:07:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> en mi cabeza se veia mejor lo que hice xd
-[12Feb2025 05:07:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> yo estoy haciendo mi actividad fav xd
-[12Feb2025 05:08:07.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> chunks?
-[12Feb2025 05:08:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> aplanar jajja
-[12Feb2025 05:08:22.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> lol pa que?
-[12Feb2025 05:08:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ni idea
-[12Feb2025 05:08:45.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesito que vengas y me digas que tan mal esta JAJAJA
-[12Feb2025 05:09:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya hable con caro del viernes
-[12Feb2025 05:09:35.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> de k
-[12Feb2025 05:09:49.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> dijo que ni pienses que te vamos a tener cerca JAJAJAJAJ
-[12Feb2025 05:09:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> se ve bien
-[12Feb2025 05:10:07.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJAA dile que qué envidoosa
-[12Feb2025 05:10:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> muy grave esto?
-[12Feb2025 05:10:43.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> que cosa?
-[12Feb2025 05:10:53.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mi construccion JAJAJA
-[12Feb2025 05:11:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> esta bien ya tre dije jajaja
-[12Feb2025 05:11:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> AHHH
-[12Feb2025 05:12:23.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> soy increible jajaja
-[12Feb2025 05:12:26.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> wtf
-[12Feb2025 05:12:27.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> es simetrico
-[12Feb2025 05:12:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no se que hacer de ventanales
-[12Feb2025 05:12:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ah ya se
-[12Feb2025 05:12:59.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> vallas?
-[12Feb2025 05:13:07.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que dices?
-[12Feb2025 05:13:14.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no es un establo?
-[12Feb2025 05:13:15.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pero no se que color quedaria bien
-[12Feb2025 05:13:37.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pues es pa la cabra y caballos realmente
-[12Feb2025 05:13:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> por eso
-[12Feb2025 05:13:48.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> el iglu lo hago otro dia
-[12Feb2025 05:13:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> los establos no tienen ventanas
-[12Feb2025 05:13:55.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> por eso, con vallas?
-[12Feb2025 05:14:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> o sea, full madera?
-[12Feb2025 05:14:05.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> oki
-[12Feb2025 05:22:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me falta el techo y el establo individual xd
-[12Feb2025 05:22:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pero en terminos generales es eso
-[12Feb2025 05:22:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ven y miras
-[12Feb2025 05:22:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> espera que estoy en xp
-[12Feb2025 05:24:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ah btw tengo 51 slimes
-[12Feb2025 05:30:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me voy a mimir
-[12Feb2025 05:30:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> r
-[12Feb2025 05:30:16.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> en la casa esta todo
-[12Feb2025 05:30:21.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> yo acabo mi hueco y me voy tambien
-[12Feb2025 05:30:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> oki
-[12Feb2025 05:30:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> WTF TU APLANAZTE EL MASR?
-[12Feb2025 05:30:49.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> MAR
-[12Feb2025 05:30:56.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> nokas
-[12Feb2025 05:31:01.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> eso fue un bug jajajaj
-[12Feb2025 05:31:03.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ENTONCES QUE ES ESTA MIERDA
-[12Feb2025 05:31:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhh
-[12Feb2025 05:31:07.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> lol
-[12Feb2025 05:31:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> bueno descansa mañana nos vemos
-[12Feb2025 05:31:24.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> r
-[12Feb2025 05:31:31.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop lost connection: Disconnected
-[12Feb2025 05:31:31.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop left the game
-[12Feb2025 05:41:37.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Timed out
-[12Feb2025 05:41:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
-[12Feb2025 05:41:37.591] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[12Feb2025 05:41:47.900] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
-[12Feb2025 05:41:51.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:59319] logged in with entity id 43427 at (-4477.536916043306, 64.0, -870.4078665868399)
-[12Feb2025 05:41:51.776] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
-[12Feb2025 05:41:51.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
-[12Feb2025 05:41:51.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
-[12Feb2025 05:41:51.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
-[12Feb2025 05:41:51.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
-[12Feb2025 05:41:51.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
-[12Feb2025 05:41:51.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
-[12Feb2025 05:41:51.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
-[12Feb2025 05:42:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 05:43:06.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:01:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:01:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:15:25.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:15:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:16:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:16:10.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:16:32.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4498, y=63, z=-868} BlockPos{x=-4499, y=63, z=-870}
-[12Feb2025 06:17:46.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:18:03.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:20:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:20:39.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:22:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:23:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:24:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:24:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:30:03.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:30:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:40:39.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:40:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
-[12Feb2025 06:41:14.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
-[12Feb2025 06:48:59.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/43685, l='ServerLevel[Chill]', x=-4495.94, y=63.94, z=-875.70] died, message: 'Farmer was slain by Terrain32 using [La Carolina]'
-[12Feb2025 06:49:03.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43688, l='ServerLevel[Chill]', x=-4495.04, y=64.00, z=-865.30] died, message: 'Villager was slain by Terrain32 using [La Carolina]'
-[12Feb2025 06:54:12.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[12Feb2025 06:54:30.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[12Feb2025 06:54:50.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[12Feb2025 06:55:08.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
-[12Feb2025 06:55:28.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[12Feb2025 06:55:46.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
-[12Feb2025 06:56:04.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
-[12Feb2025 06:56:44.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[12Feb2025 06:57:01.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
-[12Feb2025 06:57:24.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[12Feb2025 06:57:41.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
-[12Feb2025 06:58:09.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[12Feb2025 06:58:41.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[12Feb2025 06:58:59.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3207ms or 64 ticks behind
-[12Feb2025 06:59:16.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[12Feb2025 06:59:35.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind
-[12Feb2025 06:59:53.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
-[12Feb2025 07:00:29.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[12Feb2025 07:00:46.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[12Feb2025 07:01:04.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[12Feb2025 07:01:24.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[12Feb2025 07:01:41.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[12Feb2025 07:01:59.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[12Feb2025 20:56:28.273] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[12Feb2025 20:56:28.282] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[12Feb2025 20:56:31.053] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[12Feb2025 20:56:31.285] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerChill/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[12Feb2025 20:56:32.166] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[12Feb2025 20:56:32.169] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[12Feb2025 20:56:32.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[12Feb2025 20:56:32.192] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerChill/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[12Feb2025 20:56:32.890] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[12Feb2025 20:56:39.450] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12Feb2025 20:56:40.001] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[12Feb2025 20:56:40.234] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Feb2025 20:56:41.827] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[12Feb2025 20:56:41.861] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[12Feb2025 20:56:41.882] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[12Feb2025 20:56:41.894] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[12Feb2025 20:56:41.898] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[12Feb2025 20:56:41.909] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[12Feb2025 20:56:41.914] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[12Feb2025 20:56:41.929] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[12Feb2025 20:57:01.718] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[12Feb2025 20:57:04.594] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[12Feb2025 20:57:04.804] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[12Feb2025 20:57:05.784] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[12Feb2025 20:57:05.785] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[12Feb2025 20:57:06.552] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[12Feb2025 20:57:12.975] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[12Feb2025 20:57:12.987] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[12Feb2025 20:57:12.991] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[12Feb2025 20:57:12.993] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[12Feb2025 20:57:13.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[12Feb2025 20:57:13.889] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[12Feb2025 20:57:13.961] [main/INFO] [journeymap/]: Initializing Packet Registries
+[12Feb2025 20:57:14.274] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[12Feb2025 20:57:14.316] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[12Feb2025 20:57:14.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[12Feb2025 20:57:14.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[12Feb2025 20:57:14.363] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[12Feb2025 20:57:14.367] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[12Feb2025 20:57:14.375] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[12Feb2025 20:57:14.474] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[12Feb2025 20:57:14.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.8 Target: 1.0.9
+[12Feb2025 20:57:14.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[12Feb2025 20:57:15.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[12Feb2025 20:57:15.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Feb2025 20:57:15.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[12Feb2025 20:57:15.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[12Feb2025 20:57:15.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[12Feb2025 20:57:15.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[12Feb2025 20:57:15.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[12Feb2025 20:57:15.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[12Feb2025 20:57:15.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[12Feb2025 20:57:15.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[12Feb2025 20:57:16.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.19 Target: 1.20.1-1.0.20
+[12Feb2025 20:57:25.374] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Feb2025 20:57:32.270] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/assets/.mcassetsroot' uses unexpected schema
+[12Feb2025 20:57:32.270] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerChill/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/data/.mcassetsroot' uses unexpected schema
+[12Feb2025 20:57:41.313] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[12Feb2025 20:57:41.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[12Feb2025 20:57:41.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[12Feb2025 20:57:41.546] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[12Feb2025 20:57:41.574] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[12Feb2025 20:57:41.584] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[12Feb2025 20:57:41.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[12Feb2025 20:57:41.627] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[12Feb2025 20:57:41.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
+[12Feb2025 20:57:42.293] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3061 advancements
+[12Feb2025 20:57:42.306] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[12Feb2025 20:57:42.307] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[12Feb2025 20:57:42.308] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[12Feb2025 20:57:42.309] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[12Feb2025 20:57:42.327] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[12Feb2025 20:57:42.330] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[12Feb2025 20:57:42.331] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[12Feb2025 20:57:42.331] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[12Feb2025 20:57:42.339] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[12Feb2025 20:57:47.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[12Feb2025 20:57:47.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Feb2025 20:57:47.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Feb2025 20:57:47.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Feb2025 20:57:48.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Feb2025 20:57:48.569] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Feb2025 20:57:49.140] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Feb2025 20:57:49.153] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Feb2025 20:57:49.236] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[12Feb2025 20:57:49.289] [Server thread/INFO] [Framework/]: Loading server configs...
+[12Feb2025 20:57:49.290] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[12Feb2025 20:57:49.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Feb2025 20:58:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Feb2025 20:58:17.052] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.062] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.064] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.066] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.067] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.072] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.076] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.079] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.134] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.136] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.139] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.164] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.186] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:17.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:18.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:18.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:19.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:19.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:20.184] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Feb2025 20:58:20.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[12Feb2025 20:58:21.891] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20208 ms
+[12Feb2025 20:58:21.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.757s)! For help, type "help"
+[12Feb2025 20:58:22.193] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Feb2025 20:58:22.202] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[12Feb2025 21:02:30.195] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[12Feb2025 21:02:36.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:61861] logged in with entity id 100 at (-4505.300000011921, 64.0, -846.1991173387779)
+[12Feb2025 21:02:36.226] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[12Feb2025 21:02:36.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[12Feb2025 21:02:36.231] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[12Feb2025 21:02:36.232] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[12Feb2025 21:02:36.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[12Feb2025 21:02:36.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[12Feb2025 21:02:36.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[12Feb2025 21:02:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[12Feb2025 21:02:39.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[12Feb2025 21:03:02.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8460ms or 169 ticks behind
+[12Feb2025 21:03:36.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[12Feb2025 21:29:33.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
