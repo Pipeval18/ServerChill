@@ -1938,3 +1938,65 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12Feb2025 04:46:31.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [12Feb2025 04:48:59.586] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4606, y=68, z=-968}) doesn't have enough leaves around top most log
 [12Feb2025 04:51:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> zzz
+[12Feb2025 04:51:31.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 04:51:31.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 04:51:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> confia en el proceso
+[12Feb2025 04:52:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> que a dormir bobo hpota
+[12Feb2025 04:52:09.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhh espera
+[12Feb2025 04:52:13.734] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=67, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:52:14.336] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=68, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:52:19.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> zzzzzz
+[12Feb2025 04:52:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhh en el jeugo JJAJAJAJA
+[12Feb2025 04:52:53.384] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=65, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:52:59.633] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=65, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:00.531] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=66, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:01.482] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=67, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:02.485] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=68, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:03.447] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=69, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:04.280] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=70, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:22.034] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=66, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:23.137] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=67, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:39.253] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=65, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:40.063] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=66, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:40.833] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=67, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:41.639] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=68, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:42.438] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=69, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:53:44.633] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=70, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:00.787] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=66, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:01.585] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=67, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:13.536] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4633, y=67, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:14.335] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4633, y=66, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:20.132] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4633, y=64, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:34.043] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4633, y=65, z=-972}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:42.892] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=65, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:43.708] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=66, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:44.737] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=67, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:45.535] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=68, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:46.335] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=69, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:54:47.150] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=70, z=-971}) doesn't have enough leaves around top most log
+[12Feb2025 04:55:17.337] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=66, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:55:18.237] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=65, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:55:19.591] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=67, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:55:20.384] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=68, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:55:21.190] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=69, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:55:23.335] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4632, y=70, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:16.689] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=65, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:17.485] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=66, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:18.294] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=67, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:19.133] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=68, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:20.434] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=69, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:21.240] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4624, y=70, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:31.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 04:56:31.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[12Feb2025 04:56:45.503] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=65, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:46.284] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=66, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:47.334] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=67, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:48.131] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=68, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:48.933] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=69, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:56:49.736] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-4616, y=70, z=-947}) doesn't have enough leaves around top most log
+[12Feb2025 04:58:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no se como mas avanzar ayuda
+[12Feb2025 04:58:43.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> yo confio en el proceso
+[12Feb2025 04:58:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> yo no
+[12Feb2025 04:58:48.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ayuda
+[12Feb2025 05:01:31.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[12Feb2025 05:01:31.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
