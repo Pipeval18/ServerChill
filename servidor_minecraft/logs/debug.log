@@ -1774,3 +1774,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Feb2025 00:53:36.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [13Feb2025 00:58:36.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [13Feb2025 00:58:36.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[13Feb2025 01:03:36.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[13Feb2025 01:03:36.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[13Feb2025 01:07:38.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33902, l='ServerLevel[Chill]', x=-4495.34, y=69.06, z=-836.70] died, message: 'Villager was slain by Terrain32 using [La Carolina]'
+[13Feb2025 01:08:36.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[13Feb2025 01:08:36.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[13Feb2025 01:08:45.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[13Feb2025 01:08:45.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[13Feb2025 01:08:45.090] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Feb2025 01:08:45.154] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1014}
+[13Feb2025 01:08:45.154] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1013}

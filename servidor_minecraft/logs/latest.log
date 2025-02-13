@@ -1,3 +1,7 @@
 [13Feb2025 00:48:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gamerule randomTickSpeed is now set to: 100]
 [13Feb2025 00:48:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gamerule randomTickSpeed is now set to: 1000]
 [13Feb2025 00:48:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gamerule randomTickSpeed is now set to: 1]
+[13Feb2025 01:07:38.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33902, l='ServerLevel[Chill]', x=-4495.34, y=69.06, z=-836.70] died, message: 'Villager was slain by Terrain32 using [La Carolina]'
+[13Feb2025 01:08:45.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[13Feb2025 01:08:45.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[13Feb2025 01:08:45.090] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
