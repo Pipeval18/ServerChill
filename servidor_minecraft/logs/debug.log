@@ -1769,3 +1769,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Feb2025 00:48:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gamerule randomTickSpeed is now set to: 1000]
 [13Feb2025 00:48:36.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [13Feb2025 00:48:36.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[13Feb2025 00:48:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gamerule randomTickSpeed is now set to: 1]
+[13Feb2025 00:53:36.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[13Feb2025 00:53:36.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[13Feb2025 00:58:36.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[13Feb2025 00:58:36.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
