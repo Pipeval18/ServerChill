@@ -406,6 +406,7 @@
       "bread": "2025-01-21 00:41:58 +0000",
       "golden_apple": "2025-01-21 03:13:38 +0000",
       "rotten_flesh": "2025-01-21 00:43:09 +0000",
+      "golden_carrot": "2025-02-16 21:04:46 +0000",
       "cooked_chicken": "2025-01-21 02:23:48 +0000",
       "carrot": "2025-01-21 02:18:23 +0000"
     },
@@ -6443,15 +6444,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "beacon": "2025-02-16 01:21:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_oak_leaves": "2025-02-16 01:55:20 +0000"
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-02-16 00:47:12 +0000"
     },
     "done": true
   },
@@ -6461,15 +6456,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
     "criteria": {
-      "beacon": "2025-02-16 01:23:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-02-16 00:47:12 +0000"
+      "has_wither_rose": "2025-02-16 00:59:10 +0000"
     },
     "done": true
   },
@@ -6479,9 +6468,27 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_wither_rose": "2025-02-16 00:59:10 +0000"
+      "beacon": "2025-02-16 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-02-16 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_oak_leaves": "2025-02-16 01:55:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-02-16 21:04:47 +0000"
     },
     "done": true
   },
