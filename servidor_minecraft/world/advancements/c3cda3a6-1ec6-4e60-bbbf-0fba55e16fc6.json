@@ -6522,6 +6522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
     "criteria": {
       "has_birch_leaves": "2025-02-16 21:04:47 +0000"
@@ -6558,6 +6564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-16 21:17:03 +0000"
@@ -6567,6 +6579,18 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
     },
     "done": true
   },
@@ -6609,6 +6633,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
     },
     "done": true
   },
