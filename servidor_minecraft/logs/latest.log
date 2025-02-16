@@ -175,3 +175,8 @@
 [16Feb2025 22:36:38.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6575ms or 131 ticks behind
 [16Feb2025 22:37:20.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
 [16Feb2025 22:37:46.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16Feb2025 22:57:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Vex
+[16Feb2025 22:58:05.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was slain by Vex
+[16Feb2025 22:58:12.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16Feb2025 23:06:25.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 4951.717224200036,6.464159374955443,3065.3242772765493
+[16Feb2025 23:11:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
