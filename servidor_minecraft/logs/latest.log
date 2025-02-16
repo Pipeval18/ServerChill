@@ -274,3 +274,10 @@
 [16Feb2025 01:37:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> hay mesa de descrafteo jajaja
 [16Feb2025 01:41:51.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [16Feb2025 01:42:12.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6110ms or 122 ticks behind
+[16Feb2025 01:52:24.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16Feb2025 01:53:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Gave 52 [Book] to Juanitoop]
+[16Feb2025 01:53:48.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> los tire a la lava sin querer perdon
+[16Feb2025 01:55:37.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4576, y=67, z=-826} BlockPos{x=-4574, y=66, z=-827}
+[16Feb2025 01:55:42.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4570, y=66, z=-829} BlockPos{x=-4571, y=66, z=-831}
+[16Feb2025 01:55:42.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4570, y=66, z=-829} BlockPos{x=-4571, y=66, z=-831}
+[16Feb2025 01:56:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> en efecto si sirve la granja
