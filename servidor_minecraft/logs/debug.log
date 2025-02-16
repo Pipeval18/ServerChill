@@ -1977,3 +1977,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 01:28:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pan no
 [16Feb2025 01:28:55.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> esa si toca a mano porque dan es la semillas
 [16Feb2025 01:29:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no habia una cosa que crafteaba automatico?
+[16Feb2025 01:31:59.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[16Feb2025 01:31:59.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[16Feb2025 01:32:17.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> 1.21
+[16Feb2025 01:32:22.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> verga
+[16Feb2025 01:32:29.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> metemos dinosaurios? jij
+[16Feb2025 01:32:40.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> lo estoy pensando jajaja
+[16Feb2025 01:32:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> POR FAVOR
+[16Feb2025 01:33:47.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> tengo 9 estrellas
+[16Feb2025 01:36:42.144] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1014}
+[16Feb2025 01:36:42.144] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4621, y=64, z=-1013}
+[16Feb2025 01:36:59.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[16Feb2025 01:36:59.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[16Feb2025 01:37:22.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[16Feb2025 01:37:31.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> hay mesa de descrafteo jajaja
