@@ -6161,81 +6161,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
-    "criteria": {
-      "has_birch_planks": "2025-02-12 04:59:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2025-02-12 04:23:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
-    "criteria": {
-      "has_birch_planks": "2025-02-12 04:59:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-02-12 04:59:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
       "has_item": "2025-02-12 04:18:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-02-12 04:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-02-12 04:59:58 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2025-02-12 04:23:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
-    "criteria": {
-      "has_birch_planks": "2025-02-12 04:59:30 +0000"
     },
     "done": true
   },
@@ -6251,27 +6179,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-02-12 04:23:04 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/diopside_axe": {
     "criteria": {
       "has_resource": "2025-02-12 04:18:08 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
-    "criteria": {
-      "has_item": "2025-02-12 04:23:05 +0000"
     },
     "done": true
   },
@@ -6281,39 +6191,69 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-02-12 05:26:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/diopside_block": {
     "criteria": {
       "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-02-12 04:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-12 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-12 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
     },
     "done": true
   },
@@ -6323,21 +6263,51 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-02-12 04:23:05 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
     "criteria": {
-      "has_resource": "2025-02-12 04:18:08 +0000"
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-02-12 04:23:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-02-12 04:59:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-02-12 04:59:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-02-12 04:59:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-02-12 04:59:30 +0000"
     },
     "done": true
   },
@@ -6359,21 +6329,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
-    "criteria": {
-      "has_resource": "2025-02-12 04:18:08 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2025-02-12 04:59:30 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
-    "criteria": {
-      "has_item": "2025-02-12 04:23:05 +0000"
     },
     "done": true
   },
@@ -6383,51 +6341,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
-    "criteria": {
-      "has_item": "2025-02-12 04:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-02-12 04:23:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2025-02-12 04:59:30 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-12 04:18:08 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
-    "criteria": {
-      "has_resource": "2025-02-12 04:18:08 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
-    "criteria": {
-      "has_item": "2025-02-12 04:23:05 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/trough": {
-    "criteria": {
-      "has_item": "2025-02-12 04:59:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
-    "criteria": {
-      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
     },
     "done": true
   },
@@ -6437,9 +6353,93 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/diopside_helmet": {
+  "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
-      "has_item": "2025-02-12 04:18:08 +0000"
+      "has_item": "2025-02-12 04:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-12 04:59:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-02-12 04:59:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-02-12 05:26:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-02-12 05:28:22 +0000"
     },
     "done": true
   },
