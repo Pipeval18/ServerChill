@@ -281,3 +281,22 @@
 [16Feb2025 01:55:42.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4570, y=66, z=-829} BlockPos{x=-4571, y=66, z=-831}
 [16Feb2025 01:55:42.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4570, y=66, z=-829} BlockPos{x=-4571, y=66, z=-831}
 [16Feb2025 01:56:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> en efecto si sirve la granja
+[16Feb2025 02:02:49.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16Feb2025 02:03:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
+[16Feb2025 02:04:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> hvon jajajajaja
+[16Feb2025 02:05:07.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> buueno ya
+[16Feb2025 02:06:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitamos tridentes
+[16Feb2025 02:06:15.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> fastidioso hpta jajajaja
+[16Feb2025 02:06:17.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> si creo
+[16Feb2025 02:06:27.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no tenemos spawn de zombies?
+[16Feb2025 02:06:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> si
+[16Feb2025 02:06:43.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[16Feb2025 02:06:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ese se puede volver de ahogados
+[16Feb2025 02:07:50.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16Feb2025 02:09:54.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> weno me reitor
+[16Feb2025 02:09:59.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ah?
+[16Feb2025 02:10:38.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> retiro*
+[16Feb2025 02:10:58.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[16Feb2025 02:10:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[16Feb2025 02:11:10.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop lost connection: Disconnected
+[16Feb2025 02:11:10.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop left the game
