@@ -1848,3 +1848,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 00:49:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to Terrain32]
 [16Feb2025 00:49:19.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah le metiste esa vaina
 [16Feb2025 00:49:20.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mira mi armadura
+[16Feb2025 00:49:44.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> la cague
+[16Feb2025 00:49:51.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> nel
+[16Feb2025 00:49:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> el del trigo no sirve lo estoy quitando
+[16Feb2025 00:51:15.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> dame un beacon
+[16Feb2025 00:51:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> por fa
+[16Feb2025 00:51:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> tengo 1
+[16Feb2025 00:51:26.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> damelo
+[16Feb2025 00:51:26.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y las cabezas
+[16Feb2025 00:51:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no he matado a nadie jajaja
+[16Feb2025 00:51:33.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> tienes los bloques?
+[16Feb2025 00:51:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> dame las cabezas y hago eso
+[16Feb2025 00:51:42.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[16Feb2025 00:51:42.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[16Feb2025 00:52:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ven a donde la comida
+[16Feb2025 00:52:34.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la arena de almas creo que esta en el almacewn
+[16Feb2025 00:52:38.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ok
+[16Feb2025 00:52:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> para el end hacia donde er?
+[16Feb2025 00:52:56.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no hay camino aun
+[16Feb2025 00:53:21.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[16Feb2025 00:53:29.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> buscate si hay comandos que quiten los objetyos del piso
+[16Feb2025 00:53:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> me da pereza recoger todo el trigo y semillas
+[16Feb2025 00:53:46.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[16Feb2025 00:54:03.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[16Feb2025 00:54:21.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> moment
+[16Feb2025 00:54:22.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[16Feb2025 00:54:26.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 4951.979625818064,6.265900001525878,3066.1770271420505
+[16Feb2025 00:56:51.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[16Feb2025 00:56:51.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[16Feb2025 00:58:21.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop withered away whilst fighting Wither
+[16Feb2025 00:58:23.379] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[16Feb2025 00:58:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaja
+[16Feb2025 00:58:33.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> lol
+[16Feb2025 00:59:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was shot by a skull from Wither
+[16Feb2025 00:59:16.205] [Server thread/DEBUG] [twilightforest/]: Player Juanitoop (c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6) respawned and received items held in storage
+[16Feb2025 00:59:20.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ayuda
+[16Feb2025 00:59:29.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> esperame que ya voy a acABAR
