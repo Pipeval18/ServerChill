@@ -149,3 +149,8 @@
 [16Feb2025 21:10:42.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4570, y=69, z=-773} BlockPos{x=-4569, y=69, z=-774}
 [16Feb2025 21:10:49.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4569, y=68, z=-788} BlockPos{x=-4570, y=68, z=-786}
 [16Feb2025 21:11:04.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4573, y=69, z=-793} BlockPos{x=-4574, y=69, z=-792}
+[16Feb2025 21:15:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Creative Mode]
+[16Feb2025 21:15:40.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[16Feb2025 21:18:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Creative Mode]
+[16Feb2025 21:19:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[16Feb2025 21:22:46.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
