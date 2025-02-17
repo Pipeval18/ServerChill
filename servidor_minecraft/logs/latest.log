@@ -180,3 +180,5 @@
 [16Feb2025 22:58:12.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [16Feb2025 23:06:25.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 4951.717224200036,6.464159374955443,3065.3242772765493
 [16Feb2025 23:11:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[16Feb2025 23:49:44.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[16Feb2025 23:57:11.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has reached the goal [Postmortal]
