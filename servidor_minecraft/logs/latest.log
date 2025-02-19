@@ -188,3 +188,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Feb2025 17:25:19.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
 [19Feb2025 17:26:16.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
 [19Feb2025 17:56:29.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Penguin['Arfausto'/294, l='ServerLevel[Chill]', x=-4591.48, y=64.00, z=-1018.67] died: Arfausto was struck by lightning
+[19Feb2025 20:04:38.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
