@@ -169,3 +169,15 @@ java.net.http.HttpTimeoutException: request timed out
 [19Feb2025 03:10:48.041] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
 [19Feb2025 03:10:50.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [19Feb2025 03:18:38.090] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Terrain32 is d2f7c9da-51c2-4765-a44a-d2bf44f0530d
+[19Feb2025 03:18:42.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Terrain32[/100.79.161.122:50777] logged in with entity id 102 at (-4616.699999988079, 70.0, -982.3000000119209)
+[19Feb2025 03:18:42.702] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Terrain32
+[19Feb2025 03:18:42.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Terrain32
+[19Feb2025 03:18:42.714] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Terrain32
+[19Feb2025 03:18:42.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Terrain32
+[19Feb2025 03:18:42.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Terrain32
+[19Feb2025 03:18:42.761] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Terrain32
+[19Feb2025 03:18:42.765] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
+[19Feb2025 03:18:43.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
+[19Feb2025 03:18:47.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
+[19Feb2025 03:19:32.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30452ms or 609 ticks behind
+[19Feb2025 03:19:50.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
