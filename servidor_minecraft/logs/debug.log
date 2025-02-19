@@ -3301,3 +3301,18 @@ java.net.http.HttpTimeoutException: request timed out
 [19Feb2025 06:35:10.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [19Feb2025 06:40:10.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [19Feb2025 06:40:10.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[19Feb2025 06:45:10.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[19Feb2025 06:45:10.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[19Feb2025 06:48:33.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zhmeztwa7fgn]: started parsing
+[19Feb2025 06:48:33.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zhmeztwa7fgn]: Consuming argument ``
+[19Feb2025 06:48:34.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rdpfvkbr7t9]: started parsing
+[19Feb2025 06:48:34.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13rdpfvkbr7t9]: Consuming argument `s`
+[19Feb2025 06:48:34.428] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u51mycl5reur]: started parsing
+[19Feb2025 06:48:34.428] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u51mycl5reur]: Consuming argument `st`
+[19Feb2025 06:48:34.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0hh6ijswqg2]: started parsing
+[19Feb2025 06:48:34.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0hh6ijswqg2]: Consuming argument `sto`
+[19Feb2025 06:48:36.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xmarghku8c7]: started parsing
+[19Feb2025 06:48:36.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xmarghku8c7]: Consuming argument `stone_bricks`
+[19Feb2025 06:48:36.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16xmarghku8c7]: Finished looking at arguments. Finalizing command.
+[19Feb2025 06:50:10.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[19Feb2025 06:50:10.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
