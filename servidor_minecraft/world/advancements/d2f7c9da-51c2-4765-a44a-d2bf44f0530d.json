@@ -9508,5 +9508,29 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_hedge": {
+    "criteria": {
+      "has_acacia_leaves": "2025-02-19 17:27:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-02-19 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_hedge": {
+    "criteria": {
+      "has_jungle_leaves": "2025-02-19 17:27:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_hedge": {
+    "criteria": {
+      "has_dark_oak_leaves": "2025-02-19 17:27:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
