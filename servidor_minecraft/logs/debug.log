@@ -2229,3 +2229,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 04:51:10.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> de hecho si
 [20Feb2025 04:51:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> uno lleno son 8500
 [20Feb2025 04:51:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> con eso se hace jajajja
+[20Feb2025 04:51:44.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Feb2025 04:52:08.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8525ms or 170 ticks behind
+[20Feb2025 04:53:27.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-711, y=31, z=26} BlockPos{x=-706, y=28, z=29}
+[20Feb2025 04:53:46.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 04:53:46.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 04:55:32.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=31, z=15} BlockPos{x=-697, y=27, z=25}
+[20Feb2025 04:55:32.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=31, z=15} BlockPos{x=-697, y=27, z=25}
+[20Feb2025 04:56:11.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-706, y=26, z=16} BlockPos{x=-704, y=26, z=15}
+[20Feb2025 04:56:11.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-706, y=26, z=16} BlockPos{x=-704, y=26, z=15}
+[20Feb2025 04:57:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> QUE GONORREA
+[20Feb2025 04:57:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> q?
+[20Feb2025 04:57:48.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mas facil encuentro un billete de loteria que chimbadas de esas
+[20Feb2025 04:58:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[20Feb2025 04:58:20.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> casi se cae
+[20Feb2025 04:58:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> que?
+[20Feb2025 04:58:27.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> el shulker JJAJAJA
+[20Feb2025 04:58:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah xd
+[20Feb2025 04:58:46.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 04:58:46.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 04:58:55.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3485ms or 69 ticks behind
+[20Feb2025 05:00:34.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no te sirven 1k xd
+[20Feb2025 05:00:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no
