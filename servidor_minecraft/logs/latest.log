@@ -243,3 +243,157 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 04:19:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesito cohetes
 [20Feb2025 04:20:03.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> abajo hay
 [20Feb2025 04:20:24.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! -12.333314527539187,-1.6716538563599244,-12.684815306709538
+[20Feb2025 04:20:54.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[20Feb2025 04:21:13.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[20Feb2025 04:21:30.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> esto es casa o maquina de lag?
+[20Feb2025 04:21:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> casa para mi, maquina de lag para ti
+[20Feb2025 04:21:53.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> literal no sube de 40 fps
+[20Feb2025 04:21:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y eso que la hice con el sistema mas lento para bajar el lag
+[20Feb2025 04:23:00.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pero quedó bomnita
+[20Feb2025 04:23:05.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> si pero
+[20Feb2025 04:23:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no hagamos nada mas aqui JAJAJAJA
+[20Feb2025 04:23:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaja
+[20Feb2025 04:23:23.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ash
+[20Feb2025 04:24:48.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> VOY A MATAR ALDEANOS
+[20Feb2025 04:24:56.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah si eso es el lag jaja
+[20Feb2025 04:24:57.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31571, l='ServerLevel[Chill]', x=-4574.30, y=65.28, z=-964.04] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:24:58.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31709, l='ServerLevel[Chill]', x=-4574.95, y=65.27, z=-964.89] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:24:59.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31710, l='ServerLevel[Chill]', x=-4574.32, y=65.28, z=-964.10] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:24:59.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31708, l='ServerLevel[Chill]', x=-4575.14, y=65.68, z=-963.61] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:24:59.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31714, l='ServerLevel[Chill]', x=-4575.77, y=65.45, z=-964.40] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:01.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31569, l='ServerLevel[Chill]', x=-4575.11, y=65.42, z=-965.04] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:01.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31570, l='ServerLevel[Chill]', x=-4575.20, y=65.48, z=-963.41] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:01.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31568, l='ServerLevel[Chill]', x=-4574.99, y=65.47, z=-964.18] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:01.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31557, l='ServerLevel[Chill]', x=-4575.19, y=65.50, z=-964.52] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:02.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31561, l='ServerLevel[Chill]', x=-4575.63, y=65.65, z=-964.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:08.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31562, l='ServerLevel[Chill]', x=-4575.46, y=65.58, z=-964.26] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:08.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31715, l='ServerLevel[Chill]', x=-4574.30, y=65.08, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:08.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31555, l='ServerLevel[Chill]', x=-4574.30, y=65.15, z=-964.79] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:08.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31556, l='ServerLevel[Chill]', x=-4575.45, y=65.15, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:08.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31572, l='ServerLevel[Chill]', x=-4574.79, y=65.26, z=-964.50] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:08.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31563, l='ServerLevel[Chill]', x=-4575.49, y=65.15, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:09.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31565, l='ServerLevel[Chill]', x=-4574.30, y=65.15, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:09.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31566, l='ServerLevel[Chill]', x=-4575.73, y=65.24, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:09.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31567, l='ServerLevel[Chill]', x=-4574.94, y=65.15, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:09.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31560, l='ServerLevel[Chill]', x=-4575.47, y=65.03, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:11.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31716, l='ServerLevel[Chill]', x=-4574.30, y=65.22, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:11.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31558, l='ServerLevel[Chill]', x=-4575.19, y=65.28, z=-964.67] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:11.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31712, l='ServerLevel[Chill]', x=-4574.54, y=65.30, z=-965.28] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:11.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31554, l='ServerLevel[Chill]', x=-4574.30, y=65.00, z=-964.72] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:11.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31574, l='ServerLevel[Chill]', x=-4575.28, y=65.18, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:12.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31564, l='ServerLevel[Chill]', x=-4574.31, y=65.19, z=-965.23] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:12.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31553, l='ServerLevel[Chill]', x=-4574.30, y=65.31, z=-963.73] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:12.897] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31711, l='ServerLevel[Chill]', x=-4574.94, y=65.49, z=-964.10] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:12.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31559, l='ServerLevel[Chill]', x=-4575.13, y=65.32, z=-965.04] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:15.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31713, l='ServerLevel[Chill]', x=-4574.85, y=65.09, z=-965.70] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:18.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31573, l='ServerLevel[Chill]', x=-4575.11, y=65.19, z=-965.56] died, message: 'Villager was slain by Juanitoop'
+[20Feb2025 04:25:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ush que gonorrea me subio a 80 de una
+[20Feb2025 04:25:40.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> si ves
+[20Feb2025 04:25:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la verdad pienso es que deberiamos quitar esa granja
+[20Feb2025 04:26:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitamos para algo mas?
+[20Feb2025 04:26:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pues creo que no
+[20Feb2025 04:26:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> la quito?
+[20Feb2025 04:26:23.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y en ultimas podemos sacar aldeanos del pueblo
+[20Feb2025 04:26:27.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> va xd
+[20Feb2025 04:26:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> prestame el pico de toque de seda
+[20Feb2025 04:26:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> toma
+[20Feb2025 04:26:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mariana esta haciendo la tesis mientras me ve jugar JAJAJAJA
+[20Feb2025 04:26:51.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> increible jajaja
+[20Feb2025 04:26:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> DONDE ESTAS
+[20Feb2025 04:27:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> si es ese?
+[20Feb2025 04:27:19.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> si
+[20Feb2025 04:31:48.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah bueno
+[20Feb2025 04:31:50.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ventaja
+[20Feb2025 04:31:51.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitamos granja de oro
+[20Feb2025 04:31:57.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> esta recoge basura
+[20Feb2025 04:33:51.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pa que necesitas tanto oro=
+[20Feb2025 04:34:07.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> zanahorias
+[20Feb2025 04:34:15.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ahh ok ok
+[20Feb2025 04:37:26.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> voy a reparar las herramientas
+[20Feb2025 04:38:03.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[20Feb2025 04:39:05.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> queda un slot de item en el almacen
+[20Feb2025 04:39:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> alguna idea?
+[20Feb2025 04:39:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> bolas de magma?
+[20Feb2025 04:39:26.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya
+[20Feb2025 04:39:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> emmm
+[20Feb2025 04:39:41.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> camas jajajaja
+[20Feb2025 04:39:50.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> tiene que ser stackeable jajaja
+[20Feb2025 04:39:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> emmm
+[20Feb2025 04:39:58.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> flechas?
+[20Feb2025 04:40:07.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya ambas
+[20Feb2025 04:41:20.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pez?
+[20Feb2025 04:41:25.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya jhajaja
+[20Feb2025 04:41:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> tinta de calamar
+[20Feb2025 04:41:39.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la brilltante y normal ya
+[20Feb2025 04:41:53.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> de donde putas sacaste tanto material
+[20Feb2025 04:42:00.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> creativo verdad'
+[20Feb2025 04:42:02.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> dos noches sin dormir
+[20Feb2025 04:42:04.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajaja
+[20Feb2025 04:42:25.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> lo unico del creativo fueron las terracotas y concretos
+[20Feb2025 04:42:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> poorque me daba pereza
+[20Feb2025 04:43:20.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> creo que sera
+[20Feb2025 04:43:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> donde estan los juegos artificiales?
+[20Feb2025 04:43:26.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> polvo de blaze
+[20Feb2025 04:43:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> fuegos
+[20Feb2025 04:43:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> si ese
+[20Feb2025 04:43:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> te toca hacerlos porque hay como 100
+[20Feb2025 04:43:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> tengo 30 xd
+[20Feb2025 04:43:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> sabes que falta?
+[20Feb2025 04:43:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> cual
+[20Feb2025 04:43:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> deberiamos hacer un mega horno
+[20Feb2025 04:44:07.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> lo estaba pensando
+[20Feb2025 04:44:38.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> toma
+[20Feb2025 04:44:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> listo
+[20Feb2025 04:45:06.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya se puede meter lo que sea y no se va a dañar
+[20Feb2025 04:45:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> yunques?
+[20Feb2025 04:45:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> todos los obejtos funcionales se van a almacenar
+[20Feb2025 04:45:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> y los que no? se queman?
+[20Feb2025 04:45:49.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> el unico objeto de vanilla
+[20Feb2025 04:46:07.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Son botones de jungla jajaj
+[20Feb2025 04:46:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> farmeamos madera para las fogatas?
+[20Feb2025 04:46:23.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pero hay 89
+[20Feb2025 04:46:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no alcanza para ni mierda bobo
+[20Feb2025 04:46:35.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y se necesitan 9 por chunk
+[20Feb2025 04:46:37.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> SON 3 CHUNKS
+[20Feb2025 04:46:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> AH?
+[20Feb2025 04:46:44.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ya me perdi
+[20Feb2025 04:46:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> los slimes caen y en 3x3 mueren jajaja
+[20Feb2025 04:46:58.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> hazla
+[20Feb2025 04:47:06.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitas que farmee algo?
+[20Feb2025 04:47:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Quiero hacer un horno que queme las armas y armaduras y las mande directo abajo
+[20Feb2025 04:47:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> oye si
+[20Feb2025 04:47:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la de oro
+[20Feb2025 04:47:20.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitas que farmee algo?
+[20Feb2025 04:47:22.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitas que farmee algo?
+[20Feb2025 04:47:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitas que farmee algo?
+[20Feb2025 04:47:23.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitas que farmee algo?
+[20Feb2025 04:47:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesitas que farmee algo?
+[20Feb2025 04:47:25.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la de oro
+[20Feb2025 04:47:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la de oro
+[20Feb2025 04:47:28.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la de oro
+[20Feb2025 04:47:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la de oro
+[20Feb2025 04:47:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> idiota pideme materiales
+[20Feb2025 04:47:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> bloque de magma
+[20Feb2025 04:47:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> igual hoy deja prendido el server
+[20Feb2025 04:47:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que hoy trasnocho
+[20Feb2025 04:47:57.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> r
+[20Feb2025 04:48:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> voy
+[20Feb2025 04:48:08.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y a las 4 q me levante lo apago xd
+[20Feb2025 04:48:12.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[20Feb2025 04:48:46.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[20Feb2025 04:49:44.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Creative Mode]
+[20Feb2025 04:49:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ?
+[20Feb2025 04:49:50.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[20Feb2025 04:49:53.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> casi me muero
+[20Feb2025 04:49:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaja
+[20Feb2025 04:49:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me cai en la lava
+[20Feb2025 04:50:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> cuanto magma?
+[20Feb2025 04:50:28.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la verdad
+[20Feb2025 04:50:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> para buen oro
+[20Feb2025 04:50:36.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> como 30K
+[20Feb2025 04:50:40.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> :3
+[20Feb2025 04:50:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> shulker lleno?
+[20Feb2025 04:50:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> USH
+[20Feb2025 04:51:10.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> de hecho si
+[20Feb2025 04:51:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> uno lleno son 8500
+[20Feb2025 04:51:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> con eso se hace jajajja

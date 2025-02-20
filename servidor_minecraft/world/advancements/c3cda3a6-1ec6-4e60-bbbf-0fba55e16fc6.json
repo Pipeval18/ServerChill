@@ -6669,5 +6669,53 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-20 04:34:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-20 04:34:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
