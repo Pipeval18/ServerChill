@@ -10068,6 +10068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
       "has_item": "2025-02-20 04:01:16 +0000"
@@ -10083,6 +10089,12 @@
   "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
     },
     "done": true
   },
@@ -10104,9 +10116,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/diopside_axe": {
     "criteria": {
       "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
     },
     "done": true
   },
@@ -10119,6 +10143,12 @@
   "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
     "criteria": {
       "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
     },
     "done": true
   },
@@ -10143,6 +10173,12 @@
   "blue_skies:recipes/misc/diopside_block": {
     "criteria": {
       "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
     },
     "done": true
   },
@@ -10188,6 +10224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/quest_ram_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-02-20 03:23:31 +0000"
@@ -10209,6 +10251,12 @@
   "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
     "criteria": {
       "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-20 04:14:12 +0000"
     },
     "done": true
   },

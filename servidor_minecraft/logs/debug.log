@@ -2014,3 +2014,41 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 04:09:49.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pues
 [20Feb2025 04:09:53.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ay dios
 [20Feb2025 04:09:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya no hay casa
+[20Feb2025 04:10:25.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ven
+[20Feb2025 04:10:30.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> sigueme
+[20Feb2025 04:10:33.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la vas a hacer de hierro? jajaj
+[20Feb2025 04:11:09.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> sigueme
+[20Feb2025 04:11:25.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> donde estas
+[20Feb2025 04:11:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> detras
+[20Feb2025 04:11:38.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20Feb2025 04:11:53.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> es hacia el sur este
+[20Feb2025 04:12:01.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8040ms or 160 ticks behind
+[20Feb2025 04:13:24.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 04:13:24.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 04:13:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah q gonorrea jajaj
+[20Feb2025 04:13:50.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no mk su culo va amover uno de estos completos
+[20Feb2025 04:14:06.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> farmeemos totems
+[20Feb2025 04:14:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> eso fue un creeper
+[20Feb2025 04:14:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> un hpta zombie tenia uno en la mano
+[20Feb2025 04:14:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y revivió jajaj
+[20Feb2025 04:15:04.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que putas
+[20Feb2025 04:15:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya sacaste los allays?
+[20Feb2025 04:16:03.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> los que?
+[20Feb2025 04:16:12.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> busca una bajada
+[20Feb2025 04:17:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que buscas?
+[20Feb2025 04:17:18.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> una bajada
+[20Feb2025 04:17:24.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> hay algo abajo?
+[20Feb2025 04:17:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Spectator Mode]
+[20Feb2025 04:17:53.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no hay nada abajo
+[20Feb2025 04:17:57.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no?
+[20Feb2025 04:18:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[20Feb2025 04:18:14.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[20Feb2025 04:18:24.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 04:18:24.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 04:18:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> puta madre marge
+[20Feb2025 04:19:07.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[20Feb2025 04:19:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> bueno
+[20Feb2025 04:19:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> a casita
+[20Feb2025 04:19:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesito cohetes
+[20Feb2025 04:20:03.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> abajo hay
+[20Feb2025 04:20:24.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! -12.333314527539187,-1.6716538563599244,-12.684815306709538
