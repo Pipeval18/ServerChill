@@ -1821,3 +1821,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 03:33:14.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [20Feb2025 03:38:14.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [20Feb2025 03:38:14.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 03:43:05.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved wrongly!
+[20Feb2025 03:43:14.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 03:43:14.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 03:48:14.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 03:48:14.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
