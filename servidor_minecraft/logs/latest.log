@@ -446,3 +446,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 05:11:44.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> prestame el sedoso
 [20Feb2025 05:11:50.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> para ir por los huevos
 [20Feb2025 05:12:41.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Feb2025 05:13:00.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Feb2025 05:13:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> cuanto demoran en poner huevos xd?
+[20Feb2025 05:13:18.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ni idea jkajaja
+[20Feb2025 05:14:23.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> weno me retirp
+[20Feb2025 05:16:43.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
+[20Feb2025 05:16:43.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
+[20Feb2025 05:19:28.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Creative Mode]
+[20Feb2025 05:19:40.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[20Feb2025 05:19:44.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4351, y=61, z=-828} BlockPos{x=-4351, y=62, z=-828}
+[20Feb2025 05:19:44.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4351, y=61, z=-828} BlockPos{x=-4351, y=62, z=-828}
+[20Feb2025 05:19:46.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4352, y=61, z=-825} BlockPos{x=-4351, y=61, z=-825}
+[20Feb2025 05:19:47.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4356, y=58, z=-827} BlockPos{x=-4356, y=59, z=-827}
+[20Feb2025 05:19:47.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4356, y=58, z=-827} BlockPos{x=-4356, y=59, z=-827}
+[20Feb2025 05:19:47.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4355, y=60, z=-827} BlockPos{x=-4356, y=59, z=-827}
+[20Feb2025 05:19:48.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4354, y=60, z=-829} BlockPos{x=-4354, y=58, z=-829}
