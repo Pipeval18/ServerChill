@@ -1788,3 +1788,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 03:06:46.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [20Feb2025 03:07:46.069] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
 [20Feb2025 03:07:46.069] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[20Feb2025 03:11:46.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 03:11:46.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[20Feb2025 03:13:36.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[20Feb2025 03:14:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[20Feb2025 03:16:22.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[20Feb2025 03:16:46.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[20Feb2025 03:16:46.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
