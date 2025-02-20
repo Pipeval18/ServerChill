@@ -6489,9 +6489,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
     "criteria": {
-      "has_melon": "2025-02-16 22:54:51 +0000"
+      "has_birch_leaves": "2025-02-16 21:04:47 +0000"
     },
     "done": true
   },
@@ -6525,27 +6525,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-02-16 23:57:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2025-02-16 21:17:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-16 21:20:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
-    "criteria": {
-      "has_birch_leaves": "2025-02-16 21:04:47 +0000"
     },
     "done": true
   },
@@ -6579,18 +6561,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-16 21:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-02-16 22:54:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-16 21:17:03 +0000"
@@ -6603,27 +6573,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-16 21:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-02-16 21:20:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-16 21:17:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-02-16 22:54:51 +0000"
     },
     "done": true
   },
@@ -6663,9 +6615,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-02-16 21:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-16 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-16 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-16 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-16 23:57:11 +0000"
     },
     "done": true
   },

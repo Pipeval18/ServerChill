@@ -182,3 +182,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Feb2025 03:26:32.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [20Feb2025 03:27:17.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [20Feb2025 03:43:05.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved wrongly!
+[20Feb2025 04:01:16.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Tough to Beat]
+[20Feb2025 04:01:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [1 Down, 3 to go]
+[20Feb2025 04:07:17.728] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[20Feb2025 04:07:21.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:50420] logged in with entity id 17889 at (-4511.699999988079, -59.0, -1181.484518830419)
+[20Feb2025 04:07:21.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[20Feb2025 04:07:21.619] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[20Feb2025 04:07:21.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[20Feb2025 04:07:21.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[20Feb2025 04:07:21.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[20Feb2025 04:07:21.639] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[20Feb2025 04:07:21.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[20Feb2025 04:07:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
+[20Feb2025 04:07:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Juanitoop to Terrain32]
+[20Feb2025 04:07:46.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> wtf
+[20Feb2025 04:08:03.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> asi te sirve o muy chiquito?
+[20Feb2025 04:08:16.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> voy como a 30 fps
+[20Feb2025 04:08:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> wtf
+[20Feb2025 04:08:22.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajajajaja
+[20Feb2025 04:08:49.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> donde esta el deposto?
+[20Feb2025 04:08:55.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> el qué?
+[20Feb2025 04:09:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> alimentame pls
+[20Feb2025 04:09:04.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> para tirar las cosas y se organicen
+[20Feb2025 04:09:13.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ven
+[20Feb2025 04:09:46.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> y la casa?
+[20Feb2025 04:09:49.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pues
+[20Feb2025 04:09:53.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ay dios
+[20Feb2025 04:09:53.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya no hay casa

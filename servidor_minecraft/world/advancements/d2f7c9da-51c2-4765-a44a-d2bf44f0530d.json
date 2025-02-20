@@ -8547,8 +8547,10 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "canopy_chest": "2025-02-20 03:59:05 +0000",
       "canopy_sapling": "2025-01-31 22:15:59 +0000",
       "dark_log": "2025-01-31 23:06:38 +0000",
+      "twilight_oak_sapling": "2025-02-20 03:59:44 +0000",
       "canopy_log": "2025-01-31 22:15:54 +0000"
     },
     "done": false
@@ -10036,15 +10038,153 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-20 03:49:11 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/food/comet_berry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2025-02-20 04:02:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/comet_berry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2025-02-20 04:02:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/diopside_block": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-02-20 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
     },
     "done": true
   },
@@ -10057,6 +10197,66 @@
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-02-20 03:23:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-02-20 03:59:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-02-20 04:01:16 +0000"
     },
     "done": true
   },
