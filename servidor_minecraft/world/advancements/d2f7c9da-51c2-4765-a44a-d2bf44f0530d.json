@@ -10036,6 +10036,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-20 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-20 03:49:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/quest_ram_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-02-20 03:23:31 +0000"
