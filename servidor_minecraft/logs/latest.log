@@ -174,3 +174,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Feb2025 18:37:37.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [22Feb2025 18:45:48.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-607, y=50, z=-234} BlockPos{x=-607, y=73, z=-213}
 [22Feb2025 18:47:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Diamond Impact Hammer] to Terrain32]
+[22Feb2025 18:51:09.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-607, y=60, z=-226} BlockPos{x=-605, y=58, z=-228}
+[22Feb2025 18:52:02.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-607, y=47, z=-235} BlockPos{x=-606, y=47, z=-237}
+[22Feb2025 18:58:51.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Flint and Steel] to Terrain32]
+[22Feb2025 19:05:35.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4849, y=39, z=-3060} BlockPos{x=-4850, y=39, z=-3059}
+[22Feb2025 19:08:02.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Hammer] to Terrain32]
+[22Feb2025 19:08:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Reinforced Hammer] to Terrain32]
+[22Feb2025 19:08:56.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Hammer] to Terrain32]
