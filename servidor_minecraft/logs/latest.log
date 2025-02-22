@@ -181,3 +181,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Feb2025 19:08:02.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Hammer] to Terrain32]
 [22Feb2025 19:08:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Reinforced Hammer] to Terrain32]
 [22Feb2025 19:08:56.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Hammer] to Terrain32]
+[22Feb2025 19:33:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[22Feb2025 19:33:18.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[22Feb2025 19:36:10.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Lever] to Terrain32]
