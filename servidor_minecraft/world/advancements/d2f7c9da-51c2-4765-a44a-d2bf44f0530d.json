@@ -10322,11 +10322,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-02-23 07:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-02-23 07:25:37 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-23 07:28:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
@@ -10337,18 +10349,6 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-02-23 07:31:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-02-23 07:25:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-02-23 07:28:16 +0000"
     },
     "done": true
   },
