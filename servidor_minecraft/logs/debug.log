@@ -2157,3 +2157,97 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 07:57:33.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> tomar
 [23Feb2025 07:57:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Terrain32 to Juanitoop]
 [23Feb2025 07:57:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> con amigos
+[23Feb2025 07:57:45.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:57:45.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 7.745510590941194,-2.333670989898593,-17.272065902349425
+[23Feb2025 07:57:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:58:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me estas invitando o diciendo jajajaja
+[23Feb2025 07:58:17.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Made Juanitoop no longer a server operator]
+[23Feb2025 07:58:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> por jodón jajjajaja
+[23Feb2025 07:58:32.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> dame el op otra vez canson
+[23Feb2025 07:58:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Made Juanitoop a server operator]
+[23Feb2025 07:58:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me estas invitando o diciendo jajajaja
+[23Feb2025 07:58:47.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> invitando
+[23Feb2025 07:58:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhh
+[23Feb2025 07:58:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pues si de una
+[23Feb2025 07:58:58.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pero
+[23Feb2025 07:59:04.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> a mariana no creo que la dejen ir xd
+[23Feb2025 07:59:07.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 07:59:07.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 07:59:09.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! -13.354012595012136,-1.9982752887615192,-11.667994486443604
+[23Feb2025 07:59:12.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! -2.2338912900368086,-4.385947279043847,-17.822238192936425
+[23Feb2025 07:59:16.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> allá habrá perras
+[23Feb2025 07:59:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> por eso xd, no dije que lo anterior fuera malo
+[23Feb2025 07:59:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> animal sin cacho animal indefenso
+[23Feb2025 07:59:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaajaj
+[23Feb2025 07:59:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Mira q
+[23Feb2025 07:59:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> el jueves tuve depre
+[23Feb2025 08:00:03.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> te imaginas que Nila por x o y motivo este alla?
+[23Feb2025 08:00:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y corté tema con valeria
+[23Feb2025 08:00:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> lolazo
+[23Feb2025 08:00:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> lol pero cortado cortado?
+[23Feb2025 08:00:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> soñador hpta juajajj
+[23Feb2025 08:00:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mk siempre que hablemos de temas asi deberiamos hablarlo por aca
+[23Feb2025 08:00:36.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no queda registro
+[23Feb2025 08:00:46.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> copeo
+[23Feb2025 08:00:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> la esperanza nunca se pierde
+[23Feb2025 08:00:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ademas que
+[23Feb2025 08:00:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> Bog es muy pequeño
+[23Feb2025 08:01:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> lol pero cortado cortado?
+[23Feb2025 08:01:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que hablaron o que
+[23Feb2025 08:01:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pues le escribí el viernes por el cumple pero solo mensaje y chao
+[23Feb2025 08:01:35.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> cumple?
+[23Feb2025 08:01:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ay jueputa
+[23Feb2025 08:01:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> mk JAJAJAJA
+[23Feb2025 08:01:51.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no tenia ni puta idea
+[23Feb2025 08:02:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pero o sea
+[23Feb2025 08:02:05.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> le dijiste como
+[23Feb2025 08:02:08.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> yes y pues le dije q me iba a desaparecer de todo el mundo+
+[23Feb2025 08:02:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ya no vamos a seguir conesto?
+[23Feb2025 08:02:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y que quería tiempo para mi y que no era ella
+[23Feb2025 08:02:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> negro JAJAJAJAJAJA la parte de responsabilidad te la sabes?
+[23Feb2025 08:02:43.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no era mas simple decir no se: "voy a ser fiel"?
+[23Feb2025 08:02:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pero pues el viernes me sentí mejor y ya no me quiero desaparecer pero no quiero volver a conversar porque quiero mi relación
+[23Feb2025 08:03:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhhh
+[23Feb2025 08:03:17.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me siento orgulloso de ti
+[23Feb2025 08:03:19.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Es que igual muy enserio si me iba a desaparecer
+[23Feb2025 08:03:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ah si lo note xd
+[23Feb2025 08:03:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> aunque estuve pensando algo igual
+[23Feb2025 08:03:43.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Pero pues, también me sirve para ya dejar así
+[23Feb2025 08:03:46.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> creo que solo voy a ir a la Jave por esta vieja
+[23Feb2025 08:03:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> como que
+[23Feb2025 08:03:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no se
+[23Feb2025 08:04:07.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 08:04:07.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 08:04:09.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pues si, me parece que era lo mas maduro que podias hacer
+[23Feb2025 08:04:09.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> porque igual siento que si le está metiendo corazon por lo que me dijo
+[23Feb2025 08:04:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que te dijo?
+[23Feb2025 08:05:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> chismeeee
+[23Feb2025 08:05:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Que le molestaba que mis palabras y acciones eran contrarias y estaba decepcionada de que eligiera la opcion mas cobarde pero igual no me iba a detener
+[23Feb2025 08:05:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahhhh ya entendi
+[23Feb2025 08:05:31.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pero negro
+[23Feb2025 08:05:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> yo te dije que eso estaba pasando xd
+[23Feb2025 08:05:40.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> y luego solo me dijo como "ah y devuelveme mi brasier."
+[23Feb2025 08:05:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> con todo y el puntoi
+[23Feb2025 08:05:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> una cosa es lo que se dice y otra lo que se siente
+[23Feb2025 08:06:00.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJAJA era importante el punto
+[23Feb2025 08:06:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Tengo que dejar de parlar cuando me aburro xd
+[23Feb2025 08:06:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> confirmo
+[23Feb2025 08:06:23.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> yo te dije que asi no funcionan los cachos
+[23Feb2025 08:06:25.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> USH
+[23Feb2025 08:06:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> TE IBA A DECIR
+[23Feb2025 08:06:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Así que nada, el martes se lo dejaré en la recepción y hasta ahí
+[23Feb2025 08:06:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> talvez l hable algun dpia pero pues ya estando bien xed
+[23Feb2025 08:06:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> le tengo como ganitas a rasch
+[23Feb2025 08:06:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJAJAJAJAJAJ
+[23Feb2025 08:06:58.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> uy mk no
+[23Feb2025 08:07:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> Me parece lo mas maduro que puedes hacer la vdd
+[23Feb2025 08:07:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJAJ mk no se
+[23Feb2025 08:07:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me dan ganas como de
+[23Feb2025 08:07:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> zaz
+[23Feb2025 08:07:38.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> Pero por qué?
+[23Feb2025 08:08:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> sala de chisme
+[23Feb2025 08:08:05.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pues mk no se
+[23Feb2025 08:08:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaja
+[23Feb2025 08:08:11.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> es que el viernes la vi como mas linda
+[23Feb2025 08:08:13.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJAJAJAJA
+[23Feb2025 08:08:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> gasss
