@@ -177,3 +177,151 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 07:15:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pa que jajaja
 [23Feb2025 07:16:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> MATASTE A ARFAUSTO
 [23Feb2025 07:16:48.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> se desaparecieron todos
+[23Feb2025 07:17:03.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Feb2025 07:20:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no tenemos plantillas de mejora?
+[23Feb2025 07:20:17.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> se supone que si
+[23Feb2025 07:23:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que hacemos
+[23Feb2025 07:23:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> UY YA SE
+[23Feb2025 07:24:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> como encontramos una ciudad antigua?
+[23Feb2025 07:24:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la granja de slimes por ejemplo jajajaj
+[23Feb2025 07:24:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ush buscando lit
+[23Feb2025 07:24:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> aburrido
+[23Feb2025 07:24:41.653] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 332 ms
+[23Feb2025 07:25:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Teleported Juanitoop to -6847.500000, 70.000000, -1391.500000]
+[23Feb2025 07:25:05.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7292ms or 145 ticks behind
+[23Feb2025 07:25:22.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Crafting a New Look]
+[23Feb2025 07:25:29.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8712ms or 174 ticks behind
+[23Feb2025 07:25:39.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Spectator Mode]
+[23Feb2025 07:25:53.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9038ms or 180 ticks behind
+[23Feb2025 07:25:58.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> has lana
+[23Feb2025 07:26:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mucha lana
+[23Feb2025 07:26:05.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> pero mucha
+[23Feb2025 07:26:09.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pa que?
+[23Feb2025 07:26:12.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> hazla
+[23Feb2025 07:26:15.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6998ms or 139 ticks behind
+[23Feb2025 07:26:21.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:26:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Set own game mode to Survival Mode]
+[23Feb2025 07:26:46.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ponte en espectador y mira abajo
+[23Feb2025 07:26:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Spectator Mode]
+[23Feb2025 07:27:16.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Feb2025 07:27:22.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Juanitoop to Terrain32]
+[23Feb2025 07:27:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop has made the advancement [Sneak 100]
+[23Feb2025 07:29:45.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> idiota
+[23Feb2025 07:30:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> hombres papi
+[23Feb2025 07:30:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> hombres
+[23Feb2025 07:30:49.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6828, y=-52, z=-1394} BlockPos{x=-6827, y=-53, z=-1395}
+[23Feb2025 07:30:53.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> mira
+[23Feb2025 07:31:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> wtf
+[23Feb2025 07:31:27.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has reached the goal [Postmortal]
+[23Feb2025 07:31:28.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Warden
+[23Feb2025 07:31:32.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJAJAJAJA
+[23Feb2025 07:31:33.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaja
+[23Feb2025 07:31:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:32:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> deja de hacer ruido
+[23Feb2025 07:32:11.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:32:16.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:32:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has made the advancement [Sneak 100]
+[23Feb2025 07:32:31.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> NO MAAAAS
+[23Feb2025 07:32:43.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:32:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:32:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> IMBECIL
+[23Feb2025 07:33:30.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> VE QUE ME ESTA TAGEANDO A MI
+[23Feb2025 07:34:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was obliterated by a sonically-charged shriek
+[23Feb2025 07:34:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> TE ODIO TANTO
+[23Feb2025 07:34:11.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[23Feb2025 07:34:26.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaja
+[23Feb2025 07:34:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:35:15.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Juanitoop to Terrain32]
+[23Feb2025 07:35:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:35:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> imbecil
+[23Feb2025 07:35:33.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> JAJAJAJAJA bueno ya
+[23Feb2025 07:35:49.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ahora como matamos a esa mierda
+[23Feb2025 07:35:57.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6861, y=-51, z=-1416} BlockPos{x=-6862, y=-51, z=-1415}
+[23Feb2025 07:36:28.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6828, y=-51, z=-1456} BlockPos{x=-6831, y=-52, z=-1458}
+[23Feb2025 07:36:28.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6828, y=-51, z=-1456} BlockPos{x=-6831, y=-52, z=-1458}
+[23Feb2025 07:36:28.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6828, y=-51, z=-1456} BlockPos{x=-6831, y=-52, z=-1458}
+[23Feb2025 07:36:28.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6832, y=-52, z=-1461} BlockPos{x=-6832, y=-53, z=-1460}
+[23Feb2025 07:36:36.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6822, y=-52, z=-1482} BlockPos{x=-6822, y=-52, z=-1481}
+[23Feb2025 07:37:11.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> eres un idiota
+[23Feb2025 07:37:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to Juanitoop]
+[23Feb2025 07:37:37.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:37.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:38.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6789, y=-35, z=-1450} BlockPos{x=-6788, y=-35, z=-1450}
+[23Feb2025 07:37:52.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:52.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6796, y=-34, z=-1464} BlockPos{x=-6796, y=-34, z=-1463}
+[23Feb2025 07:37:53.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:37:54.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> NO MAAAAAAS
+[23Feb2025 07:37:58.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jajajajaj
+[23Feb2025 07:38:27.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop was doomed to fall by Warden
+[23Feb2025 07:38:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> mk hay 5 jajjaa
+[23Feb2025 07:38:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> QUE PUTAS
+[23Feb2025 07:39:10.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:39:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> DEJA DE HACER PUTO RUIDO ENFERMO
+[23Feb2025 07:39:22.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6790, y=-34, z=-1482} BlockPos{x=-6788, y=-34, z=-1483}
+[23Feb2025 07:39:41.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6788, y=-32, z=-1473} BlockPos{x=-6787, y=-34, z=-1473}
+[23Feb2025 07:39:48.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was obliterated by a sonically-charged shriek
+[23Feb2025 07:39:51.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juanitoop: Applied effect Night Vision to 2 targets]
+[23Feb2025 07:40:08.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pa casa
+[23Feb2025 07:40:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> no lo intentes mas
+[23Feb2025 07:40:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> te odio tanto
+[23Feb2025 07:40:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jasjajajaj
+[23Feb2025 07:40:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que risa maricon JAJAJAJA
+[23Feb2025 07:40:49.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> perdí 160 niveles jajaj
+[23Feb2025 07:40:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> yo 40
+[23Feb2025 07:41:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> 80? algo asi
+[23Feb2025 07:41:08.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> suavena
+[23Feb2025 07:41:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> hagamos algo
+[23Feb2025 07:41:13.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> no se
+[23Feb2025 07:41:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> divertido
+[23Feb2025 07:41:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> que estructura nos falta?
+[23Feb2025 07:41:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> como se llama la de los vindicadores?
+[23Feb2025 07:41:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ah btw
+[23Feb2025 07:41:47.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> toma
+[23Feb2025 07:41:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> torre de vindicadores creo
+[23Feb2025 07:42:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ojo
+[23Feb2025 07:42:23.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> aqui no afectan
+[23Feb2025 07:42:33.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah no si
+[23Feb2025 07:42:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> YAAAA
+[23Feb2025 07:43:03.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ah no no se invoca
+[23Feb2025 07:43:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> negro ya JAJAJAJA
+[23Feb2025 07:43:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> estos son para redstone
+[23Feb2025 07:43:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ik
+[23Feb2025 07:44:14.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ash yo queria uno de mascota
+[23Feb2025 07:44:24.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> tienes 4
+[23Feb2025 07:44:27.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> trae uno
+[23Feb2025 07:44:32.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pero en la mierda
+[23Feb2025 07:44:37.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> portales
+[23Feb2025 07:44:53.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Warden Spawn Egg] to Terrain32]
+[23Feb2025 07:45:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> NO MAS NEGRO HPTA
+[23Feb2025 07:45:07.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> 1vs1 sin camisa
+[23Feb2025 07:45:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Warden
+[23Feb2025 07:45:25.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> JAJAJAJAJAJ
+[23Feb2025 07:45:31.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> HAY QUE ENCERRARLO
+[23Feb2025 07:45:35.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> como vamos a matar esa mierda ahora
+[23Feb2025 07:45:41.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> Y COMO HPTA LO HACEMOS
+[23Feb2025 07:45:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Warden
+[23Feb2025 07:46:05.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> JAJAJAJA LO VI EN PRIMERA PLANA
+[23Feb2025 07:46:08.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> ya se
+[23Feb2025 07:46:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Feb2025 07:47:14.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Penguin['Gunter'/16328853, l='ServerLevel[Chill]', x=-4590.49, y=64.00, z=-1021.43] died: Gunter was slain by Warden
+[23Feb2025 07:47:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya x
