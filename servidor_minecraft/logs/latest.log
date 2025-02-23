@@ -179,3 +179,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 22:44:27.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Smithing Template] to Terrain32]
 [23Feb2025 22:44:35.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Diamond] to Terrain32]
 [23Feb2025 22:44:43.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Feb2025 22:49:04.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Nether Quartz] to Terrain32]
+[23Feb2025 22:53:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Applied effect Bad Omen to Terrain32]
+[23Feb2025 22:53:20.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
