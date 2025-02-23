@@ -1919,3 +1919,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 19:00:12.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 lost connection: Disconnected
 [23Feb2025 19:00:12.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 left the game
 [23Feb2025 19:00:12.093] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 19:04:55.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 19:04:55.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 19:09:55.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 19:09:55.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
