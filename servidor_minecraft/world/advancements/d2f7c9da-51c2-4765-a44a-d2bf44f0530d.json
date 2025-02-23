@@ -10361,17 +10361,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-23 18:00:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "ocean_ruin_cold": "2025-02-23 17:33:31 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-23 18:00:20 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
