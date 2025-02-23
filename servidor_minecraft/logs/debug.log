@@ -1939,3 +1939,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 22:10:54.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Removed effect Bad Omen from Terrain32]
 [23Feb2025 22:11:32.172] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/SidedInvWrapper (target of net/minecraftforge/items/IItemHandler)
 [23Feb2025 22:11:32.878] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
+[23Feb2025 22:15:28.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 22:15:28.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 22:20:28.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 22:20:28.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
