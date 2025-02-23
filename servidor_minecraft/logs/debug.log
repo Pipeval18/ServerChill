@@ -1869,3 +1869,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 21:35:28.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
 [23Feb2025 21:40:28.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
 [23Feb2025 21:40:28.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 21:45:28.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 21:45:28.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 21:46:08.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mbe5xgcq3f4z]: started parsing
+[23Feb2025 21:46:08.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mbe5xgcq3f4z]: Consuming argument `deepslate_tiles`
+[23Feb2025 21:46:08.046] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mbe5xgcq3f4z]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:08.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei2n4v0wixop]: started parsing
+[23Feb2025 21:46:08.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei2n4v0wixop]: Consuming argument `deepslate_tiles`
+[23Feb2025 21:46:08.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei2n4v0wixop]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:08.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gtgu1kelxqma]: started parsing
+[23Feb2025 21:46:08.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gtgu1kelxqma]: Consuming argument `air`
+[23Feb2025 21:46:08.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gtgu1kelxqma]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:08.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ib96tkbh5446]: started parsing
+[23Feb2025 21:46:08.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ib96tkbh5446]: Consuming argument `air`
+[23Feb2025 21:46:08.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ib96tkbh5446]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:08.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hpcz6pxiyxos]: started parsing
+[23Feb2025 21:46:08.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hpcz6pxiyxos]: Consuming argument `air`
+[23Feb2025 21:46:08.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hpcz6pxiyxos]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:08.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0js92p3n56l45]: started parsing
+[23Feb2025 21:46:08.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0js92p3n56l45]: Consuming argument `air`
+[23Feb2025 21:46:08.624] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0js92p3n56l45]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:09.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ptr80v7r6kz]: started parsing
+[23Feb2025 21:46:09.295] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ptr80v7r6kz]: Consuming argument `white_stained_glass`
+[23Feb2025 21:46:09.296] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ptr80v7r6kz]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:09.296] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu819t81tmtg]: started parsing
+[23Feb2025 21:46:09.296] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu819t81tmtg]: Consuming argument `white_stained_glass`
+[23Feb2025 21:46:09.297] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tu819t81tmtg]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:46:10.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Feb2025 21:46:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was killed by Evoker using magic
+[23Feb2025 21:46:51.559] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[23Feb2025 21:46:56.709] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[23Feb2025 21:46:56.711] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/gui/CorpseInventoryContainer$2 (target of net/minecraft/world/inventory/Slot)
+[23Feb2025 21:46:56.712] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[23Feb2025 21:50:28.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 21:50:28.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 21:51:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Applied effect Bad Omen to Terrain32]
+[23Feb2025 21:51:46.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has completed the challenge [Hero of the Village]
