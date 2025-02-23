@@ -231,3 +231,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 18:19:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [23Feb2025 18:21:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
 [23Feb2025 18:21:07.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Feb2025 18:23:45.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Teleported Terrain32 to -8063.500000, 127.000000, -335.500000]
+[23Feb2025 18:37:12.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20660, l='ServerLevel[Chill]', x=-4091.49, y=62.49, z=-794.13] died, message: 'Villager was impaled by Drowned'
