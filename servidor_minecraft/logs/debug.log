@@ -1738,3 +1738,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 21:02:52.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kdgxpynakp1l]: started parsing
 [23Feb2025 21:02:52.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kdgxpynakp1l]: Consuming argument `air`
 [23Feb2025 21:02:52.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kdgxpynakp1l]: Finished looking at arguments. Finalizing command.
+[23Feb2025 21:05:28.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 21:05:28.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 21:10:28.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 21:10:28.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
