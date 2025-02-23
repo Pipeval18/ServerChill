@@ -1766,3 +1766,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 18:01:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
 [23Feb2025 18:02:05.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [23Feb2025 18:03:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[23Feb2025 18:04:55.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 18:04:55.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 18:05:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Sword] to Terrain32]
+[23Feb2025 18:05:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was slain by Vex
+[23Feb2025 18:05:31.518] [Server thread/DEBUG] [twilightforest/]: Player Terrain32 (d2f7c9da-51c2-4765-a44a-d2bf44f0530d) respawned and received items held in storage
+[23Feb2025 18:05:39.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[23Feb2025 18:07:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> 7
+[23Feb2025 18:07:55.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Sword] to Terrain32]
+[23Feb2025 18:08:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Netherite Sword] to Terrain32]
+[23Feb2025 18:09:00.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Un simple palo] to Terrain32]
+[23Feb2025 18:09:55.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Chill
+[23Feb2025 18:09:55.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Chill
+[23Feb2025 18:13:26.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Gave 1 [Un simple palo] to Terrain32]
