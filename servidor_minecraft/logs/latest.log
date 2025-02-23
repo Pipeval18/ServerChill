@@ -155,3 +155,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 06:43:12.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
 [23Feb2025 06:43:30.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
 [23Feb2025 07:06:05.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4235ms or 84 ticks behind
+[23Feb2025 07:07:03.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43034ms or 860 ticks behind
+[23Feb2025 07:11:01.231] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Juanitoop is c3cda3a6-1ec6-4e60-bbbf-0fba55e16fc6
+[23Feb2025 07:11:05.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanitoop[/100.115.150.94:50738] logged in with entity id 15746002 at (-4322.300000011921, 66.0, -818.3000000119209)
+[23Feb2025 07:11:05.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Juanitoop
+[23Feb2025 07:11:05.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Juanitoop
+[23Feb2025 07:11:05.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Juanitoop
+[23Feb2025 07:11:05.246] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Juanitoop
+[23Feb2025 07:11:05.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Juanitoop
+[23Feb2025 07:11:05.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Juanitoop
+[23Feb2025 07:11:05.271] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Juanitoop
+[23Feb2025 07:11:05.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanitoop joined the game
+[23Feb2025 07:11:07.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[23Feb2025 07:11:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> jugar puedes
+[23Feb2025 07:11:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> la granja no afecta si no estás en el end
+[23Feb2025 07:13:24.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[23Feb2025 07:14:33.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanitoop moved too quickly! 5.516404080326538,0.4201966493267406,-16.562524401928954
+[23Feb2025 07:14:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> ya?
+[23Feb2025 07:14:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> me acaba de cargar
+[23Feb2025 07:15:45.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> necesito xp JAJAJAJA
+[23Feb2025 07:15:53.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> pa que jajaja
+[23Feb2025 07:16:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Juanitoop> MATASTE A ARFAUSTO
+[23Feb2025 07:16:48.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Terrain32> se desaparecieron todos
