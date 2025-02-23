@@ -156,3 +156,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Feb2025 21:46:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 was killed by Evoker using magic
 [23Feb2025 21:51:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Applied effect Bad Omen to Terrain32]
 [23Feb2025 21:51:46.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 has completed the challenge [Hero of the Village]
+[23Feb2025 22:02:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]

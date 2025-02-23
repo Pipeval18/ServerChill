@@ -1028,6 +1028,7 @@
       "minecraft:piglin": "2025-01-21 04:42:46 +0000",
       "minecraft:enderman": "2025-01-22 01:03:37 +0000",
       "minecraft:silverfish": "2025-01-22 02:00:38 +0000",
+      "minecraft:vex": "2025-02-23 21:58:20 +0000",
       "minecraft:zombie": "2025-01-21 00:38:17 +0000",
       "minecraft:drowned": "2025-01-21 01:24:52 +0000",
       "minecraft:zombie_villager": "2025-01-23 04:18:45 +0000"
@@ -10370,6 +10371,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-23 18:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-23 21:51:46 +0000"
     },
     "done": true
   },
