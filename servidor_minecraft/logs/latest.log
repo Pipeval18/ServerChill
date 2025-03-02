@@ -24,3 +24,5 @@
 [02Mar2025 00:24:11.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Terrain32
 [02Mar2025 00:24:11.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Terrain32 joined the game
 [02Mar2025 00:24:59.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[02Mar2025 02:07:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[02Mar2025 02:09:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
