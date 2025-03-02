@@ -26,3 +26,7 @@
 [02Mar2025 00:24:59.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
 [02Mar2025 02:07:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
 [02Mar2025 02:09:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Creative Mode]
+[02Mar2025 02:11:33.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[02Mar2025 02:11:33.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved too quickly! 4951.558328984232,6.464159374955443,3065.9829332673075
+[02Mar2025 02:12:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Terrain32: Set own game mode to Survival Mode]
+[02Mar2025 02:17:21.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Terrain32 moved wrongly!
